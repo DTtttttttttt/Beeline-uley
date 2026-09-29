@@ -1,0 +1,1641 @@
+{
+  "name": "Восток",
+  "office": {
+    "address": "город Москва, улица Юных Ленинцев, дом 83 строение 4",
+    "lat": 55.702293,
+    "lon": 37.77392
+  },
+  "requests": [
+    {
+      "id": "74198",
+      "address": "Москва, проспект Волгоградский, дом 128 корпус 5",
+      "lat": 55.700915,
+      "lon": 37.782227,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "20:00",
+      "windowEnd": "22:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "86160",
+      "address": "Москва, переулок Маяковского, дом 2",
+      "lat": 55.739783,
+      "lon": 37.659879,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "50104",
+      "address": "Москва, улица Грайвороновская, дом 10 корпус 2",
+      "lat": 55.718406,
+      "lon": 37.731985,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Заявка на подключение"
+    },
+    {
+      "id": "46393",
+      "address": "Москва, улица Михайлова, дом 14",
+      "lat": 55.727002,
+      "lon": 37.765823,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "20:00",
+      "windowEnd": "22:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "10135",
+      "address": "Москва, улица 3-я Институтская, дом 5 корпус 2",
+      "lat": 55.722053,
+      "lon": 37.782251,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "18754",
+      "address": "Москва, улица 1-я Новокузьминская, дом 16 корпус 1",
+      "lat": 55.714306,
+      "lon": 37.789732,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "84627",
+      "address": "Москва, улица Окская, дом 32",
+      "lat": 55.714631,
+      "lon": 37.769468,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "20:00",
+      "windowEnd": "22:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "61540",
+      "address": "Москва, улица Юных Ленинцев, дом 84",
+      "lat": 55.698167,
+      "lon": 37.778544,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "16:00",
+      "windowEnd": "18:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "74949",
+      "address": "Москва, улица Международная, дом 28 строение 1",
+      "lat": 55.743087,
+      "lon": 37.687668,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "41077",
+      "address": "Москва, улица Новорогожская, дом 8",
+      "lat": 55.741106,
+      "lon": 37.684122,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "87693",
+      "address": "Москва, улица Чистова, дом 12",
+      "lat": 55.696542,
+      "lon": 37.742008,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "16:00",
+      "windowEnd": "18:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "93086",
+      "address": "Москва, улица Паперника, дом 19",
+      "lat": 55.72184,
+      "lon": 37.790669,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router",
+        "alice"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "57866",
+      "address": "Москва, улица Окская, дом 48/2",
+      "lat": 55.717571,
+      "lon": 37.779393,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "14:00",
+      "windowEnd": "16:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "35675",
+      "address": "Москва, улица Трофимова, дом 24 корпус 2",
+      "lat": 55.701969,
+      "lon": 37.676708,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "16:00",
+      "windowEnd": "18:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "82388",
+      "address": "Москва, улица 1-я Дубровская, дом 6",
+      "lat": 55.726973,
+      "lon": 37.669454,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "14:00",
+      "windowEnd": "16:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "23380",
+      "address": "Москва, улица Рогожский Вал, дом 2/50",
+      "lat": 55.745753,
+      "lon": 37.677987,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "37272",
+      "address": "Москва, улица Талалихина, дом 2/1 корпус 4",
+      "lat": 55.73703,
+      "lon": 37.673347,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "71388",
+      "address": "Москва, улица Артюхиной, дом 20А",
+      "lat": 55.69737,
+      "lon": 37.736599,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "14:00",
+      "windowEnd": "16:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router",
+        "alice"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "34366",
+      "address": "Москва, улица Малышева, дом 13",
+      "lat": 55.698138,
+      "lon": 37.743856,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "67554",
+      "address": "Москва, улица Бронницкая, дом 12",
+      "lat": 55.731485,
+      "lon": 37.759512,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Заявка на подключение"
+    },
+    {
+      "id": "94409",
+      "address": "Москва, улица Авиамоторная, дом 14",
+      "lat": 55.752492,
+      "lon": 37.716278,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "10245",
+      "address": "Москва, улица Фёдора Полетаева, дом 2 корпус 6",
+      "lat": 55.713554,
+      "lon": 37.771996,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "52405",
+      "address": "Москва, улица Зарайская, дом 51 корпус 2",
+      "lat": 55.72795,
+      "lon": 37.77714,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "30769",
+      "address": "Москва, улица Саратовская, дом 14/1",
+      "lat": 55.715022,
+      "lon": 37.738372,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "14:00",
+      "windowEnd": "16:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "98182",
+      "address": "Москва, улица Нижегородская, дом 63",
+      "lat": 55.732415,
+      "lon": 37.718683,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Заявка на подключение"
+    },
+    {
+      "id": "76082",
+      "address": "Москва, улица Смирновская, дом 6",
+      "lat": 55.736897,
+      "lon": 37.707998,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Заказ подключения/Дозаказ оборудования"
+    },
+    {
+      "id": "29890",
+      "address": "Москва, улица Нижегородская, дом 61",
+      "lat": 55.732484,
+      "lon": 37.717801,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "77563",
+      "address": "Москва, улица Зеленодольская, дом 28Б",
+      "lat": 55.711964,
+      "lon": 37.770692,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "53587",
+      "address": "Москва, улица Артюхиной, дом 16",
+      "lat": 55.698588,
+      "lon": 37.737818,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "82808",
+      "address": "Москва, улица 3-я Карачаровская, дом 4 корпус 1",
+      "lat": 55.733761,
+      "lon": 37.744648,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "14:00",
+      "windowEnd": "16:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "7939",
+      "address": "Москва, проспект Рязанский, дом 73",
+      "lat": 55.718499,
+      "lon": 37.790235,
+      "serviceDurationMin": 70,
+      "baseNormMin": 90,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "new_connection",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "crimping_tool"
+      ],
+      "urgent": false,
+      "hdType": "Конвергенция абонента"
+    },
+    {
+      "id": "92031",
+      "address": "Москва, улица Ферганская, дом 28/7",
+      "lat": 55.701022,
+      "lon": 37.824919,
+      "serviceDurationMin": 20,
+      "baseNormMin": 40,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "regular",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router",
+        "alice"
+      ],
+      "requiredTools": [],
+      "urgent": false,
+      "hdType": "Дозаказ оборудования"
+    },
+    {
+      "id": "31260",
+      "address": "Москва, бульвар Самаркандский Квартал 137а, дом к5",
+      "lat": 55.700086,
+      "lon": 37.819297,
+      "serviceDurationMin": 20,
+      "baseNormMin": 40,
+      "windowStart": "20:00",
+      "windowEnd": "22:00",
+      "workPriority": "regular",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router",
+        "set_top_box"
+      ],
+      "requiredTools": [],
+      "urgent": false,
+      "hdType": "Дозаказ оборудования"
+    },
+    {
+      "id": "69967",
+      "address": "Москва, улица Боровая, дом 14",
+      "lat": 55.769593,
+      "lon": 37.715587,
+      "serviceDurationMin": 20,
+      "baseNormMin": 40,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "regular",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router",
+        "alice"
+      ],
+      "requiredTools": [],
+      "urgent": false,
+      "hdType": "Заказ подключения/Дозаказ оборудования"
+    },
+    {
+      "id": "22634",
+      "address": "Москва, улица Стройковская, дом 8",
+      "lat": 55.734727,
+      "lon": 37.673859,
+      "serviceDurationMin": 20,
+      "baseNormMin": 40,
+      "windowStart": "14:00",
+      "windowEnd": "16:00",
+      "workPriority": "regular",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router",
+        "alice"
+      ],
+      "requiredTools": [],
+      "urgent": false,
+      "hdType": "Дозаказ оборудования"
+    },
+    {
+      "id": "98815",
+      "address": "Москва, улица 2-я Синичкина, дом 9 корпус 1",
+      "lat": 55.762673,
+      "lon": 37.713106,
+      "serviceDurationMin": 20,
+      "baseNormMin": 40,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "regular",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router",
+        "set_top_box"
+      ],
+      "requiredTools": [],
+      "urgent": false,
+      "hdType": "Дозаказ оборудования"
+    },
+    {
+      "id": "33527",
+      "address": "Москва, проезд Орехово-Зуевский, дом 18/8",
+      "lat": 55.731406,
+      "lon": 37.753812,
+      "serviceDurationMin": 20,
+      "baseNormMin": 40,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "regular",
+      "skill": "connection",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router",
+        "set_top_box"
+      ],
+      "requiredTools": [],
+      "urgent": false,
+      "hdType": "Дозаказ оборудования"
+    },
+    {
+      "id": "21571",
+      "address": "Москва, переулок Большой Рогожский, дом 10 корпус 2",
+      "lat": 55.742086,
+      "lon": 37.667631,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "alice"
+      ],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Нет линка"
+    },
+    {
+      "id": "47670",
+      "address": "Москва, улица Машкова, дом 13 строение 1",
+      "lat": 55.764372,
+      "lon": 37.652092,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "20:00",
+      "windowEnd": "22:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Нет линка"
+    },
+    {
+      "id": "17892",
+      "address": "Москва, улица 11-я Текстильщиков, дом 10",
+      "lat": 55.70694,
+      "lon": 37.743173,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Переключение на Гбит/с"
+    },
+    {
+      "id": "51115",
+      "address": "Москва, улица Паперника, дом 18",
+      "lat": 55.7213,
+      "lon": 37.793442,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Нет линка"
+    },
+    {
+      "id": "76643",
+      "address": "Москва, улица Большая Калитниковская, дом 38",
+      "lat": 55.736208,
+      "lon": 37.686191,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "alice"
+      ],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Нет линка"
+    },
+    {
+      "id": "43506",
+      "address": "Москва, бульвар Самаркандский Квартал 137а, дом к5",
+      "lat": 55.700086,
+      "lon": 37.819297,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "20:00",
+      "windowEnd": "22:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Переключение на Гбит/с"
+    },
+    {
+      "id": "48174",
+      "address": "Москва, улица Маршала Чуйкова, дом 9 корпус 2",
+      "lat": 55.697186,
+      "lon": 37.762018,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Мониторинг"
+    },
+    {
+      "id": "48227",
+      "address": "Москва, улица Талалихина, дом 16",
+      "lat": 55.735499,
+      "lon": 37.676791,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Нет линка"
+    },
+    {
+      "id": "60720",
+      "address": "Москва, бульвар Волжский, дом 50 корпус 2",
+      "lat": 55.696576,
+      "lon": 37.752271,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Нет линка"
+    },
+    {
+      "id": "48238",
+      "address": "Москва, улица Артюхиной, дом 3",
+      "lat": 55.702978,
+      "lon": 37.737823,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "14:00",
+      "windowEnd": "16:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Разрывы"
+    },
+    {
+      "id": "41912",
+      "address": "Москва, проезд Ферганский, дом 7 корпус 5",
+      "lat": 55.694165,
+      "lon": 37.824817,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Нет линка"
+    },
+    {
+      "id": "4893",
+      "address": "Москва, улица Земляной Вал, дом 24/30 строение 1",
+      "lat": 55.75873,
+      "lon": 37.657204,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Нет линка"
+    },
+    {
+      "id": "68476",
+      "address": "Москва, улица 3-я Карачаровская, дом 8 корпус 2",
+      "lat": 55.733358,
+      "lon": 37.747224,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Разрывы"
+    },
+    {
+      "id": "50219",
+      "address": "Москва, улица Чистопольская, дом 2 корпус 2",
+      "lat": 55.73057,
+      "lon": 37.758154,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "alice"
+      ],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Нет линка"
+    },
+    {
+      "id": "76678",
+      "address": "Москва, улица Боровая, дом 12",
+      "lat": 55.7703,
+      "lon": 37.714768,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Работа с кабелем"
+    },
+    {
+      "id": "47330",
+      "address": "Москва, улица Красноказарменная, дом 9Б строение 1",
+      "lat": 55.758735,
+      "lon": 37.699531,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "14:00",
+      "windowEnd": "16:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router",
+        "alice"
+      ],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Роутер. Замена техническим специалистом"
+    },
+    {
+      "id": "26645",
+      "address": "Москва, улица Сторожевая, дом 31",
+      "lat": 55.764936,
+      "lon": 37.716869,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "16:00",
+      "windowEnd": "18:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "TVE/ENT. Другие ошибки"
+    },
+    {
+      "id": "24076",
+      "address": "Москва, улица Новорогожская, дом 10",
+      "lat": 55.740114,
+      "lon": 37.683197,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "12:00",
+      "windowEnd": "14:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "router"
+      ],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Роутер. Замена техническим специалистом"
+    },
+    {
+      "id": "30243",
+      "address": "Москва, улица Нижегородская, дом 25",
+      "lat": 55.737335,
+      "lon": 37.694395,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "18:00",
+      "windowEnd": "20:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "set_top_box"
+      ],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "TVE/ENT. Замена приставки техником"
+    },
+    {
+      "id": "32807",
+      "address": "Москва, улица Окская, дом 6 корпус 1",
+      "lat": 55.71042,
+      "lon": 37.751364,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [
+        "alice"
+      ],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Работа с кабелем"
+    },
+    {
+      "id": "73572",
+      "address": "Москва, проспект Волгоградский, дом 97 корпус 1",
+      "lat": 55.707853,
+      "lon": 37.751847,
+      "serviceDurationMin": 30,
+      "baseNormMin": 50,
+      "windowStart": "14:00",
+      "windowEnd": "16:00",
+      "workPriority": "regular",
+      "skill": "local",
+      "requiredTransport": null,
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester"
+      ],
+      "urgent": false,
+      "hdType": "Нет линка"
+    },
+    {
+      "id": "41962",
+      "address": "Москва, бульвар Самаркандский, дом 32 корпус 1",
+      "lat": 55.697699,
+      "lon": 37.812618,
+      "serviceDurationMin": 80,
+      "baseNormMin": 100,
+      "windowStart": "16:00",
+      "windowEnd": "18:00",
+      "workPriority": "emergency",
+      "skill": "emergency",
+      "requiredTransport": "car",
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester",
+        "laptop"
+      ],
+      "urgent": false,
+      "hdType": "Информация"
+    },
+    {
+      "id": "97886",
+      "address": "Москва, бульвар Самаркандский, дом 10 корпус 2",
+      "lat": 55.706472,
+      "lon": 37.826247,
+      "serviceDurationMin": 80,
+      "baseNormMin": 100,
+      "windowStart": "16:00",
+      "windowEnd": "18:00",
+      "workPriority": "emergency",
+      "skill": "emergency",
+      "requiredTransport": "car",
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester",
+        "laptop"
+      ],
+      "urgent": false,
+      "hdType": "Информация"
+    },
+    {
+      "id": "17349",
+      "address": "Москва, улица Новорогожская, дом 20",
+      "lat": 55.740082,
+      "lon": 37.687738,
+      "serviceDurationMin": 80,
+      "baseNormMin": 100,
+      "windowStart": "14:00",
+      "windowEnd": "16:00",
+      "workPriority": "emergency",
+      "skill": "emergency",
+      "requiredTransport": "car",
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester",
+        "laptop"
+      ],
+      "urgent": false,
+      "hdType": "Информация"
+    },
+    {
+      "id": "54964",
+      "address": "Москва, улица Ташкентская, дом 16 корпус 2",
+      "lat": 55.703946,
+      "lon": 37.813102,
+      "serviceDurationMin": 80,
+      "baseNormMin": 100,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "emergency",
+      "skill": "emergency",
+      "requiredTransport": "car",
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester",
+        "laptop"
+      ],
+      "urgent": false,
+      "hdType": "Информация"
+    },
+    {
+      "id": "21367",
+      "address": "Москва, улица Саратовская, дом 16",
+      "lat": 55.715028,
+      "lon": 37.739928,
+      "serviceDurationMin": 80,
+      "baseNormMin": 100,
+      "windowStart": "20:00",
+      "windowEnd": "22:00",
+      "workPriority": "emergency",
+      "skill": "emergency",
+      "requiredTransport": "car",
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester",
+        "laptop"
+      ],
+      "urgent": false,
+      "hdType": "Авария"
+    },
+    {
+      "id": "24980",
+      "address": "Москва, набережная Семеновская, дом 3/1 корпус 2",
+      "lat": 55.778386,
+      "lon": 37.707432,
+      "serviceDurationMin": 80,
+      "baseNormMin": 100,
+      "windowStart": "10:00",
+      "windowEnd": "12:00",
+      "workPriority": "emergency",
+      "skill": "emergency",
+      "requiredTransport": "car",
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester",
+        "laptop"
+      ],
+      "urgent": false,
+      "hdType": "Авария"
+    },
+    {
+      "id": "15648",
+      "address": "Москва, набережная Семеновская, дом 2/1",
+      "lat": 55.777278,
+      "lon": 37.704732,
+      "serviceDurationMin": 80,
+      "baseNormMin": 100,
+      "windowStart": "16:00",
+      "windowEnd": "18:00",
+      "workPriority": "emergency",
+      "skill": "emergency",
+      "requiredTransport": "car",
+      "requiredEquipment": [
+        "alice"
+      ],
+      "requiredTools": [
+        "cable_tester",
+        "laptop"
+      ],
+      "urgent": false,
+      "hdType": "Информация"
+    },
+    {
+      "id": "57299",
+      "address": "Москва, проспект Волгоградский, дом 128 корпус 1",
+      "lat": 55.702408,
+      "lon": 37.782839,
+      "serviceDurationMin": 80,
+      "baseNormMin": 100,
+      "windowStart": "20:00",
+      "windowEnd": "22:00",
+      "workPriority": "emergency",
+      "skill": "emergency",
+      "requiredTransport": "car",
+      "requiredEquipment": [],
+      "requiredTools": [
+        "cable_tester",
+        "laptop"
+      ],
+      "urgent": false,
+      "hdType": "Авария"
+    }
+  ],
+  "engineers": [
+    {
+      "id": "brigade-1",
+      "name": "Андреев",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "10:00",
+      "shiftEnd": "19:00",
+      "skills": [
+        "connection"
+      ],
+      "transport": "bicycle",
+      "equipment": [
+        "set_top_box"
+      ],
+      "tools": [
+        "cable_tester",
+        "laptop"
+      ]
+    },
+    {
+      "id": "brigade-2",
+      "name": "Фролов",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "10:00",
+      "shiftEnd": "19:00",
+      "skills": [
+        "emergency"
+      ],
+      "transport": "car",
+      "equipment": [
+        "router",
+        "set_top_box",
+        "alice"
+      ],
+      "tools": [
+        "cable_tester",
+        "crimping_tool",
+        "laptop"
+      ]
+    },
+    {
+      "id": "brigade-3",
+      "name": "Новиков",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "13:00",
+      "shiftEnd": "22:00",
+      "skills": [
+        "local",
+        "emergency"
+      ],
+      "transport": "bicycle",
+      "equipment": [
+        "router",
+        "set_top_box",
+        "alice"
+      ],
+      "tools": [
+        "cable_tester",
+        "crimping_tool"
+      ]
+    },
+    {
+      "id": "brigade-4",
+      "name": "Семёнов",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "09:00",
+      "shiftEnd": "18:00",
+      "skills": [
+        "local",
+        "connection",
+        "emergency"
+      ],
+      "transport": "car",
+      "equipment": [
+        "router"
+      ],
+      "tools": [
+        "cable_tester",
+        "crimping_tool",
+        "laptop"
+      ]
+    },
+    {
+      "id": "brigade-5",
+      "name": "Степанов",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "13:00",
+      "shiftEnd": "22:00",
+      "skills": [
+        "local"
+      ],
+      "transport": "car",
+      "equipment": [
+        "router",
+        "set_top_box"
+      ],
+      "tools": [
+        "cable_tester",
+        "crimping_tool"
+      ]
+    },
+    {
+      "id": "brigade-6",
+      "name": "Никитин",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "10:00",
+      "shiftEnd": "19:00",
+      "skills": [
+        "connection"
+      ],
+      "transport": "car",
+      "equipment": [
+        "router",
+        "set_top_box"
+      ],
+      "tools": [
+        "cable_tester",
+        "crimping_tool",
+        "laptop"
+      ]
+    },
+    {
+      "id": "brigade-7",
+      "name": "Егоров",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "10:00",
+      "shiftEnd": "19:00",
+      "skills": [
+        "local",
+        "connection",
+        "emergency"
+      ],
+      "transport": "bicycle",
+      "equipment": [
+        "router",
+        "set_top_box"
+      ],
+      "tools": [
+        "cable_tester",
+        "crimping_tool",
+        "laptop"
+      ]
+    },
+    {
+      "id": "brigade-8",
+      "name": "Козлов",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "10:00",
+      "shiftEnd": "19:00",
+      "skills": [
+        "local",
+        "connection",
+        "emergency"
+      ],
+      "transport": "car",
+      "equipment": [
+        "router",
+        "set_top_box",
+        "alice"
+      ],
+      "tools": [
+        "cable_tester",
+        "crimping_tool",
+        "laptop"
+      ]
+    },
+    {
+      "id": "brigade-9",
+      "name": "Морозов",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "10:00",
+      "shiftEnd": "19:00",
+      "skills": [
+        "local",
+        "emergency"
+      ],
+      "transport": "public_transport",
+      "equipment": [
+        "router"
+      ],
+      "tools": [
+        "cable_tester",
+        "crimping_tool",
+        "laptop"
+      ]
+    },
+    {
+      "id": "brigade-10",
+      "name": "Фёдоров",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "09:00",
+      "shiftEnd": "18:00",
+      "skills": [
+        "local",
+        "connection"
+      ],
+      "transport": "public_transport",
+      "equipment": [
+        "router",
+        "alice"
+      ],
+      "tools": [
+        "cable_tester",
+        "crimping_tool"
+      ]
+    },
+    {
+      "id": "brigade-11",
+      "name": "Смирнов",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "10:00",
+      "shiftEnd": "19:00",
+      "skills": [
+        "local"
+      ],
+      "transport": "bicycle",
+      "equipment": [
+        "router"
+      ],
+      "tools": [
+        "cable_tester",
+        "crimping_tool"
+      ]
+    },
+    {
+      "id": "brigade-12",
+      "name": "Лебедев",
+      "startLat": 55.702293,
+      "startLon": 37.77392,
+      "shiftStart": "09:00",
+      "shiftEnd": "18:00",
+      "skills": [
+        "local",
+        "connection",
+        "emergency"
+      ],
+      "transport": "public_transport",
+      "equipment": [],
+      "tools": [
+        "cable_tester",
+        "crimping_tool"
+      ]
+    }
+  ]
+}

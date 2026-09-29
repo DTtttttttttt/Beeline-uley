@@ -1,0 +1,62 @@
+{
+  "name": "Три аварии днём: норматив 100 минут поверх утреннего плана",
+  "events": [
+    {
+      "type": "add_request",
+      "time": "10:40",
+      "request": {
+        "id": "99101",
+        "address": "Москва, набережная Нагатинская, дом 60 корпус 2",
+        "lat": 55.688013,
+        "lon": 37.687297,
+        "serviceDurationMin": 80,
+        "baseNormMin": 100,
+        "windowStart": "10:40",
+        "windowEnd": "22:00",
+        "workPriority": "emergency",
+        "skill": "emergency",
+        "requiredTransport": "car",
+        "requiredEquipment": [],
+        "requiredTools": ["cable_tester", "laptop"]
+      }
+    },
+    {
+      "type": "add_request",
+      "time": "13:00",
+      "request": {
+        "id": "99102",
+        "address": "Москва, улица Борисовские Пруды, дом 48 корпус 2",
+        "lat": 55.641574,
+        "lon": 37.774644,
+        "serviceDurationMin": 80,
+        "baseNormMin": 100,
+        "windowStart": "13:00",
+        "windowEnd": "22:00",
+        "workPriority": "emergency",
+        "skill": "emergency",
+        "requiredTransport": "car",
+        "requiredEquipment": [],
+        "requiredTools": ["cable_tester", "laptop"]
+      }
+    },
+    {
+      "type": "add_request",
+      "time": "15:20",
+      "request": {
+        "id": "99103",
+        "address": "Москва, улица Трофимова, дом 4А",
+        "lat": 55.701087,
+        "lon": 37.66134,
+        "serviceDurationMin": 80,
+        "baseNormMin": 100,
+        "windowStart": "15:20",
+        "windowEnd": "22:00",
+        "workPriority": "emergency",
+        "skill": "emergency",
+        "requiredTransport": "car",
+        "requiredEquipment": [],
+        "requiredTools": ["cable_tester", "laptop"]
+      }
+    }
+  ]
+}

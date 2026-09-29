@@ -1,0 +1,338 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Beeline Sans";
+  src: url("/fonts/BeelineSans-Regular.woff2") format("woff2"), url("/fonts/BeelineSans-Regular.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beeline Sans";
+  src: url("/fonts/BeelineSans-Medium.woff2") format("woff2"), url("/fonts/BeelineSans-Medium.woff") format("woff");
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beeline Sans";
+  src: url("/fonts/BeelineSans-Bold.woff2") format("woff2"), url("/fonts/BeelineSans-Bold.woff") format("woff");
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beeline Sans";
+  src: url("/fonts/BeelineSans-Black.woff2") format("woff2"), url("/fonts/BeelineSans-Black.woff") format("woff");
+  font-weight: 900;
+  font-display: swap;
+}
+
+@theme {
+  --font-sans: "Beeline Sans", system-ui, sans-serif;
+  --color-text: #28303f;
+  --color-muted: #77849d;
+  --color-field: #f0f3f5;
+  --color-panel: #ffffff;
+  --color-accent: #ffc800;
+  --color-danger: #f93155;
+  --radius-card: 16px;
+  --shadow-panel: 0 4px 24px rgb(40 48 63 / 12%);
+}
+
+@layer base {
+  /* Двойной тап масштабирует страницу: случайный второй тап по булавке или строке списка. `manipulation` оставляет прокрутку и щипок, убирает только его. */
+  html,
+  body {
+    touch-action: manipulation;
+  }
+
+  body {
+    @apply font-sans text-[15px] leading-[1.3] text-text;
+  }
+}
+
+/*
+ * Наведение на любую кнопку — чуть темнее: `brightness` подходит к любому фону (серому, жёлтому,
+ * белому), поэтому правило одно на все кнопки. Цвет и фон меняются плавно — и при наведении,
+ * и когда кнопка становится неактивной.
+ */
+@utility pressable {
+  @apply transition-[filter,background-color,color,box-shadow] duration-200 enabled:hover:brightness-95;
+}
+
+@utility btn {
+  @apply pressable inline-flex min-h-11 cursor-pointer items-center justify-center gap-2 whitespace-nowrap rounded-[22px] border-0 bg-field px-[18px] disabled:cursor-default disabled:text-muted;
+}
+
+@utility primary {
+  /* Не `opacity`: сквозь полупрозрачную кнопку в подвале проступала бы прокрученная под него карточка. */
+  @apply bg-accent disabled:bg-[#ffe480] disabled:text-text/50;
+}
+
+@utility wide {
+  @apply w-full;
+}
+
+@utility round {
+  @apply pressable inline-flex size-11 shrink-0 cursor-pointer items-center justify-center rounded-full border-0 bg-field;
+}
+
+@utility segmented {
+  @apply flex rounded-[22px] bg-field p-[3px] [&>button]:inline-flex [&>button]:min-h-[38px] [&>button]:flex-1 [&>button]:cursor-pointer [&>button]:items-center [&>button]:justify-center [&>button]:gap-2 [&>button]:whitespace-nowrap [&>button]:rounded-[20px] [&>button]:border-0 [&>button]:bg-transparent [&>button]:px-3.5 [&>button]:text-muted [&>button]:disabled:cursor-default [&>button]:disabled:opacity-60;
+}
+
+@utility chip {
+  @apply pressable min-h-9 shrink-0 cursor-pointer whitespace-nowrap rounded-[18px] border-0 bg-field px-3.5 text-muted disabled:cursor-default disabled:text-muted/50;
+}
+
+@utility option {
+  @apply flex cursor-pointer select-none items-center gap-3 [&>input]:pointer-events-none [&>input]:absolute [&>input]:opacity-0;
+}
+
+@utility badge {
+  @apply inline-flex min-h-6 items-center gap-1 whitespace-nowrap rounded-full bg-[#e2e7ec] px-2.5 text-sm transition-[background-color,color,box-shadow] duration-200;
+}
+
+/* Кликабельная карточка списка (инженер, заявка, блок графика): при наведении чуть темнее. */
+@utility hoverable {
+  @apply cursor-pointer transition-[filter,box-shadow] duration-200 hover:brightness-[0.97];
+}
+
+@utility card {
+  @apply rounded-card bg-field px-3.5 py-2.5;
+}
+
+@utility field {
+  @apply flex flex-col gap-0.5 rounded-card bg-field px-3.5 py-2 [&>span:first-child]:text-[11px] [&>span:first-child]:text-muted [&_input]:w-full [&_input]:border-0 [&_input]:bg-transparent [&_input]:p-0 [&_input]:outline-0 [&_input:disabled]:text-muted [&_select]:w-full [&_select]:border-0 [&_select]:bg-transparent [&_select]:p-0 [&_select]:outline-0 [&_select:disabled]:text-muted [&_textarea]:w-full [&_textarea]:border-0 [&_textarea]:bg-transparent [&_textarea]:p-0 [&_textarea]:outline-0;
+}
+
+/*
+ * Плавающий заголовок поля: пустое поле без фокуса показывает заголовок крупно и по центру,
+ * подсказку прячет; при фокусе или с текстом заголовок плавно уезжает наверх, подсказка
+ * проявляется. «Пустое» — `:placeholder-shown`, поэтому у каждого поля ввода есть `placeholder`.
+ * Масштаб 15/11 — до размера текста поля, сдвиг — до середины поля.
+ */
+@layer components {
+  /* По ширине текста, а не поля: растянутый на всё поле заголовок в масштабе 1,36 вылезал за его
+   * правый край, и у окна с пустыми полями появлялась горизонтальная прокрутка. */
+  .field > span:first-child {
+    align-self: flex-start;
+    transform-origin: left center;
+    transition: transform 200ms ease;
+  }
+
+  .field:has(> input:placeholder-shown:not(:focus)) > span:first-child {
+    transform: translateY(10.5px) scale(1.36);
+  }
+
+  .field > input::placeholder {
+    transition: opacity 200ms ease;
+  }
+
+  .field > input:placeholder-shown:not(:focus)::placeholder {
+    opacity: 0;
+  }
+}
+
+/*
+ * Раскрывающиеся блоки (`<details>`: «Кандидаты», «Почему…») открываются и закрываются плавно —
+ * высота содержимого до `auto` и обратно, 250 мс. Браузер без `::details-content` и
+ * `interpolate-size` (сейчас не Chromium) просто раскрывает блок сразу, как раньше.
+ */
+:root {
+  interpolate-size: allow-keywords;
+}
+
+details::details-content {
+  block-size: 0;
+  overflow: hidden;
+  transition:
+    block-size 250ms ease,
+    content-visibility 250ms allow-discrete;
+}
+
+details[open]::details-content {
+  block-size: auto;
+}
+
+/*
+ * Модальные окна появляются и уходят плавно: фон затемнения проявляется, само окно чуть
+ * поднимается. Между окнами (варианты → метрики) — сначала уход прежнего, потом приход нового.
+ */
+.modal-enter-active,
+.modal-leave-active {
+  transition: opacity 180ms ease;
+}
+
+.modal-enter-active > section,
+.modal-leave-active > section {
+  transition: transform 180ms ease;
+}
+
+.modal-enter-from,
+.modal-leave-to {
+  opacity: 0;
+}
+
+.modal-enter-from > section,
+.modal-leave-to > section {
+  transform: translateY(12px) scale(0.98);
+}
+
+/*
+ * Карточка в панели и список, к которому вернулись, проявляются. Ухода нет намеренно: панель —
+ * колонка, и уходящий элемент на время анимации сдвигал бы приходящий вниз.
+ */
+.appear-enter-active {
+  transition:
+    opacity 200ms ease,
+    transform 200ms ease;
+}
+
+.appear-enter-from {
+  opacity: 0;
+  transform: translateY(6px);
+}
+
+/*
+ * Заготовка строки, пока идёт расчёт: серые плашки фона полей, по которым проходит светлый блик.
+ * Блик общий для всего окна (`background-attachment: fixed`), поэтому плашки мерцают одной волной.
+ */
+@utility skeleton {
+  background: linear-gradient(100deg, var(--color-field) 40%, #f8f9fa 50%, var(--color-field) 60%) fixed;
+  background-size: 200vw 100%;
+  animation: skeleton 1.6s linear infinite;
+}
+
+@keyframes skeleton {
+  from {
+    background-position: 100vw 0;
+  }
+  to {
+    background-position: -100vw 0;
+  }
+}
+
+/* Системная настройка «уменьшить движение»: анимации и переходы не играются. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+/* Поле, из-за которого форма не отправилась: красная рамка и заголовок. */
+@utility invalid {
+  @apply shadow-[inset_0_0_0_1.5px_var(--color-danger)] [&>span:first-child]:text-danger;
+}
+
+@utility readonly {
+  @apply text-muted;
+}
+
+@utility muted {
+  @apply text-muted;
+}
+
+@utility small {
+  @apply text-xs;
+}
+
+@utility error {
+  @apply m-0 whitespace-pre-line text-danger;
+}
+
+@utility accent {
+  @apply bg-accent;
+}
+
+@utility urgent {
+  @apply bg-accent shadow-[inset_0_0_0_1.5px_#28303f];
+}
+
+@utility danger {
+  @apply bg-danger text-white;
+}
+
+@utility no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/*
+ * Прокрутка панели и карточек — вся панель: её отступ 14 px съедают отрицательные поля и
+ * возвращает свой `padding-inline`. Скругление то же, что у панели: у неё `overflow` открыт ради
+ * ручки ⋮⋮, поэтому края режет прокрутка — и карточки не вылезают за углы, и ряд чипов может
+ * уйти за отступ до самой границы (как в макете). В модальном окне прокруткой служит само окно.
+ */
+@utility fade-scroll {
+  display: flex;
+  flex: 1 1 0%;
+  flex-direction: column;
+  min-height: 0;
+  margin: -14px;
+  padding-inline: 14px;
+  overflow: auto;
+  border-radius: 36px;
+  @apply no-scrollbar;
+}
+
+/*
+ * Фэйд по макету: белый 100 % → 90 % → 0. Шапка и подвал липкие внутри своей прокрутки, и
+ * содержимое уходит под них. Переход — полоса фиксированной высоты (28 px, как у подвала с одной
+ * кнопкой) у края со стороны списка, выше неё они сплошные: растянутый в процентах на всю высоту,
+ * фэйд давал списку проступать сквозь текст высокого подвала (радиокнопки над кнопкой). `left: 0`
+ * держит их на месте, когда гантт прокручен вбок.
+ */
+@utility fade-down {
+  background-image: linear-gradient(180deg, #fff calc(100% - 28px), rgb(255 255 255 / 90%) calc(100% - 14px), rgb(255 255 255 / 0%) 100%);
+}
+
+@utility fade-header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  flex-shrink: 0;
+  padding-block: 14px;
+  @apply fade-down;
+}
+
+@utility fade-footer {
+  position: sticky;
+  bottom: 0;
+  left: 0;
+  z-index: 3;
+  flex-shrink: 0;
+  margin-top: auto;
+  padding-block: 14px;
+  background-image: linear-gradient(0deg, #fff calc(100% - 28px), rgb(255 255 255 / 90%) calc(100% - 11px), rgb(255 255 255 / 0%) 100%);
+
+  /* Пустой подвал оставляет только нижний отступ. */
+  &:empty {
+    padding-top: 0;
+  }
+}
+
+/*
+ * Липкий подвал листа на телефоне (кнопка окна, «Добавить…» в списке) гаснет, пока лист опускается
+ * к свёрнутому, и проявляется при подъёме: непрозрачность задаёт высота листа (composables/sheet.ts).
+ * `@starting-style` — чтобы и после `display: none` свёрнутого листа он проявлялся, а не выскакивал.
+ */
+@media (max-width: 767px) {
+  .fade-footer {
+    opacity: var(--sheet-footer, 1);
+    transition: opacity 150ms linear;
+
+    @starting-style {
+      opacity: 0;
+    }
+  }
+}

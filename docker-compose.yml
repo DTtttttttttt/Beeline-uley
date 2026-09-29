@@ -1,0 +1,79 @@
+services:
+  mongo:
+    image: mongo:8
+    ports:
+      # только с этой машины: база без пароля, наружу её отдавать незачем
+      - "127.0.0.1:27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping')"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  valhalla:
+    image: ghcr.io/valhalla/valhalla-scripted:latest
+    # до блока 2 тайлов нет, поэтому сервис поднимается только явно:
+    # docker compose --profile valhalla up -d valhalla
+    profiles: ["valhalla"]
+    ports:
+      - "8002:8002"
+    volumes:
+      - ./valhalla/custom_files:/custom_files
+
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      MONGO_URL: mongodb://mongo:27017
+      MONGO_DB: planner
+      VALHALLA_URL: http://valhalla:8002
+      VALHALLA_TIMEOUT: ${VALHALLA_TIMEOUT:-600}
+      DGIS_API_KEY: ${DGIS_API_KEY}
+      DGIS_SUGGEST_PER_MIN: ${DGIS_SUGGEST_PER_MIN:-0}
+      DGIS_SUGGEST_INTERVAL_SEC: ${DGIS_SUGGEST_INTERVAL_SEC:-1}
+      # ассистент диспетчера (блок 42): без ключа и каталога он выключен
+      YANDEX_API_KEY: ${YANDEX_API_KEY:-}
+      YANDEX_FOLDER_ID: ${YANDEX_FOLDER_ID:-}
+      YANDEX_MODEL: ${YANDEX_MODEL:-yandexgpt/rc}
+      YANDEX_TIMEOUT_SEC: ${YANDEX_TIMEOUT_SEC:-30}
+      YANDEX_MAX_TOKENS: ${YANDEX_MAX_TOKENS:-16000}
+      YANDEX_REASONING_EFFORT: ${YANDEX_REASONING_EFFORT:-}
+      DATA_DIR: /data
+      # .env внутрь образа не попадает, поэтому настройки расчёта передаём явно (PLAN 6.2, 6.5)
+      WINDOW_RULE: ${WINDOW_RULE:-start_in_window}
+      OBJECTIVE_MODE: ${OBJECTIVE_MODE:-emergency_first}
+      SOLVER_TIME_LIMIT_SEC: ${SOLVER_TIME_LIMIT_SEC:-20}
+      REPLAN_TIME_LIMIT_SEC: ${REPLAN_TIME_LIMIT_SEC:-10}
+      VALHALLA_MAX_MATRIX_PAIRS: ${VALHALLA_MAX_MATRIX_PAIRS:-10000}
+      FORECAST_RUNS: ${FORECAST_RUNS:-200}
+      FORECAST_SEED: ${FORECAST_SEED:-2026}
+      FORECAST_WORK_FACTOR: ${FORECAST_WORK_FACTOR:-[0.8, 1.0, 1.6]}
+      FORECAST_TRAVEL_FACTOR: ${FORECAST_TRAVEL_FACTOR:-[0.9, 1.0, 1.5]}
+      EMERGENCY_RESPONSE_MIN: ${EMERGENCY_RESPONSE_MIN:-120}
+      # в кавычках: без них YAML принял бы фигурные скобки умолчания за словарь
+      EQUIPMENT_CAPACITY: '${EQUIPMENT_CAPACITY:-{"bicycle": 3, "public_transport": 2}}'
+      # с кого браузер может ходить в API; для телефона добавляется адрес ноутбука в сети (README)
+      CORS_ORIGINS: '${CORS_ORIGINS:-["http://localhost:3000"]}'
+    volumes:
+      # наборы данных, примеры и сценарии: в образ они не копируются, лежат вне контекста сборки
+      - ./data:/data:ro
+    depends_on:
+      mongo:
+        condition: service_healthy
+
+  web:
+    build: ./web
+    ports:
+      - "3000:3000"
+    environment:
+      # обращения идут из браузера, поэтому адрес хоста, а не имя сервиса
+      NUXT_PUBLIC_API_BASE: ${NUXT_PUBLIC_API_BASE:-http://localhost:8000}
+      NUXT_PUBLIC_DGIS_KEY: ${NUXT_PUBLIC_DGIS_KEY:-${DGIS_API_KEY}}
+    depends_on:
+      - backend
+
+volumes:
+  mongo-data:

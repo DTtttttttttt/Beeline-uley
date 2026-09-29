@@ -1,0 +1,307 @@
+[
+  {
+    "id": "brigade-1",
+    "name": "Андреев",
+    "shiftStart": "10:00",
+    "shiftEnd": "19:00",
+    "skills": [
+      "connection"
+    ],
+    "transport": "bicycle",
+    "equipment": [
+      "set_top_box"
+    ],
+    "tools": [
+      "cable_tester",
+      "laptop"
+    ]
+  },
+  {
+    "id": "brigade-2",
+    "name": "Фролов",
+    "shiftStart": "10:00",
+    "shiftEnd": "19:00",
+    "skills": [
+      "emergency"
+    ],
+    "transport": "car",
+    "equipment": [
+      "router",
+      "set_top_box",
+      "alice"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool",
+      "laptop"
+    ]
+  },
+  {
+    "id": "brigade-3",
+    "name": "Новиков",
+    "shiftStart": "13:00",
+    "shiftEnd": "22:00",
+    "skills": [
+      "local",
+      "emergency"
+    ],
+    "transport": "bicycle",
+    "equipment": [
+      "router",
+      "set_top_box",
+      "alice"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool"
+    ]
+  },
+  {
+    "id": "brigade-4",
+    "name": "Семёнов",
+    "shiftStart": "09:00",
+    "shiftEnd": "18:00",
+    "skills": [
+      "local",
+      "connection",
+      "emergency"
+    ],
+    "transport": "car",
+    "equipment": [
+      "router"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool",
+      "laptop"
+    ]
+  },
+  {
+    "id": "brigade-5",
+    "name": "Степанов",
+    "shiftStart": "13:00",
+    "shiftEnd": "22:00",
+    "skills": [
+      "local"
+    ],
+    "transport": "car",
+    "equipment": [
+      "router",
+      "set_top_box"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool"
+    ]
+  },
+  {
+    "id": "brigade-6",
+    "name": "Никитин",
+    "shiftStart": "10:00",
+    "shiftEnd": "19:00",
+    "skills": [
+      "connection"
+    ],
+    "transport": "car",
+    "equipment": [
+      "router",
+      "set_top_box"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool",
+      "laptop"
+    ]
+  },
+  {
+    "id": "brigade-7",
+    "name": "Егоров",
+    "shiftStart": "10:00",
+    "shiftEnd": "19:00",
+    "skills": [
+      "local",
+      "connection",
+      "emergency"
+    ],
+    "transport": "bicycle",
+    "equipment": [
+      "router",
+      "set_top_box"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool",
+      "laptop"
+    ]
+  },
+  {
+    "id": "brigade-8",
+    "name": "Козлов",
+    "shiftStart": "10:00",
+    "shiftEnd": "19:00",
+    "skills": [
+      "local",
+      "connection",
+      "emergency"
+    ],
+    "transport": "car",
+    "equipment": [
+      "router",
+      "set_top_box",
+      "alice"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool",
+      "laptop"
+    ]
+  },
+  {
+    "id": "brigade-9",
+    "name": "Морозов",
+    "shiftStart": "10:00",
+    "shiftEnd": "19:00",
+    "skills": [
+      "local",
+      "emergency"
+    ],
+    "transport": "public_transport",
+    "equipment": [
+      "router"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool",
+      "laptop"
+    ]
+  },
+  {
+    "id": "brigade-10",
+    "name": "Фёдоров",
+    "shiftStart": "09:00",
+    "shiftEnd": "18:00",
+    "skills": [
+      "local",
+      "connection"
+    ],
+    "transport": "public_transport",
+    "equipment": [
+      "router",
+      "alice"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool"
+    ]
+  },
+  {
+    "id": "brigade-11",
+    "name": "Смирнов",
+    "shiftStart": "10:00",
+    "shiftEnd": "19:00",
+    "skills": [
+      "local"
+    ],
+    "transport": "bicycle",
+    "equipment": [
+      "router"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool"
+    ]
+  },
+  {
+    "id": "brigade-12",
+    "name": "Лебедев",
+    "shiftStart": "09:00",
+    "shiftEnd": "18:00",
+    "skills": [
+      "local",
+      "connection",
+      "emergency"
+    ],
+    "transport": "public_transport",
+    "equipment": [],
+    "tools": [
+      "cable_tester",
+      "crimping_tool"
+    ]
+  },
+  {
+    "id": "brigade-13",
+    "name": "Николаев",
+    "shiftStart": "13:00",
+    "shiftEnd": "22:00",
+    "skills": [
+      "local",
+      "emergency"
+    ],
+    "transport": "car",
+    "equipment": [
+      "router",
+      "set_top_box",
+      "alice"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool",
+      "laptop"
+    ]
+  },
+  {
+    "id": "brigade-14",
+    "name": "Яковлев",
+    "shiftStart": "10:00",
+    "shiftEnd": "19:00",
+    "skills": [
+      "emergency"
+    ],
+    "transport": "public_transport",
+    "equipment": [
+      "set_top_box"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool"
+    ]
+  },
+  {
+    "id": "brigade-15",
+    "name": "Захаров",
+    "shiftStart": "09:00",
+    "shiftEnd": "18:00",
+    "skills": [
+      "local",
+      "emergency"
+    ],
+    "transport": "bicycle",
+    "equipment": [
+      "router"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool",
+      "laptop"
+    ]
+  },
+  {
+    "id": "brigade-16",
+    "name": "Попов",
+    "shiftStart": "10:00",
+    "shiftEnd": "19:00",
+    "skills": [
+      "local",
+      "connection",
+      "emergency"
+    ],
+    "transport": "public_transport",
+    "equipment": [
+      "router"
+    ],
+    "tools": [
+      "cable_tester",
+      "crimping_tool"
+    ]
+  }
+]

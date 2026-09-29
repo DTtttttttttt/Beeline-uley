@@ -1,0 +1,35 @@
+{
+  "name": "Авария днём: срочная заявка, выбывшая бригада, отмена",
+  "events": [
+    {
+      "type": "add_request",
+      "time": "11:00",
+      "urgent": true,
+      "request": {
+        "id": "99001",
+        "address": "Москва, улица Коломенская, дом 5",
+        "lat": 55.683581,
+        "lon": 37.704593,
+        "serviceDurationMin": 80,
+        "baseNormMin": 100,
+        "windowStart": "11:00",
+        "windowEnd": "13:00",
+        "workPriority": "emergency",
+        "skill": "emergency",
+        "requiredTransport": "car",
+        "requiredEquipment": [],
+        "requiredTools": ["cable_tester", "laptop"]
+      }
+    },
+    {
+      "type": "engineer_unavailable",
+      "time": "13:00",
+      "engineerId": "brigade-3"
+    },
+    {
+      "type": "cancel_request",
+      "time": "15:00",
+      "requestIds": ["47670"]
+    }
+  ]
+}

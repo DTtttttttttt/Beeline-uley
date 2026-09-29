@@ -1,0 +1,20 @@
+{
+  "name": "Две бригады выбывают, одну заявку переносим",
+  "events": [
+    {
+      "type": "engineer_unavailable",
+      "time": "11:00",
+      "engineerId": "brigade-8"
+    },
+    {
+      "type": "defer_request",
+      "time": "14:00",
+      "requestIds": ["43506"]
+    },
+    {
+      "type": "engineer_unavailable",
+      "time": "16:00",
+      "engineerId": "brigade-5"
+    }
+  ]
+}
