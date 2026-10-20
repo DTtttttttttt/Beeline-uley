@@ -1,0 +1,7974 @@
+[
+  {
+    "requestId": "600000",
+    "engineerId": "brigade-1",
+    "stars": 2,
+    "tags": [],
+    "comment": "Опоздал и не всё объяснил.",
+    "clientName": "",
+    "daysAgo": 70
+  },
+  {
+    "requestId": "600001",
+    "engineerId": "brigade-1",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 47
+  },
+  {
+    "requestId": "600002",
+    "engineerId": "brigade-1",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "punctual",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 56
+  },
+  {
+    "requestId": "600003",
+    "engineerId": "brigade-1",
+    "stars": 3,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Сергей",
+    "daysAgo": 77
+  },
+  {
+    "requestId": "600004",
+    "engineerId": "brigade-1",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "punctual",
+      "friendly"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 66
+  },
+  {
+    "requestId": "600005",
+    "engineerId": "brigade-1",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 67
+  },
+  {
+    "requestId": "600006",
+    "engineerId": "brigade-1",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 73
+  },
+  {
+    "requestId": "600007",
+    "engineerId": "brigade-1",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 77
+  },
+  {
+    "requestId": "600008",
+    "engineerId": "brigade-1",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "punctual",
+      "explained"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Дмитрий",
+    "daysAgo": 29
+  },
+  {
+    "requestId": "600009",
+    "engineerId": "brigade-1",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Сергей",
+    "daysAgo": 51
+  },
+  {
+    "requestId": "600010",
+    "engineerId": "brigade-1",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Мария",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "600011",
+    "engineerId": "brigade-1",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Алексей",
+    "daysAgo": 30
+  },
+  {
+    "requestId": "600012",
+    "engineerId": "brigade-1",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "punctual",
+      "friendly"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 74
+  },
+  {
+    "requestId": "601000",
+    "engineerId": "brigade-2",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 78
+  },
+  {
+    "requestId": "601001",
+    "engineerId": "brigade-2",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Алексей",
+    "daysAgo": 58
+  },
+  {
+    "requestId": "601002",
+    "engineerId": "brigade-2",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "explained",
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "601003",
+    "engineerId": "brigade-2",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "explained",
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Мария",
+    "daysAgo": 36
+  },
+  {
+    "requestId": "602000",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "neat",
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Мария",
+    "daysAgo": 54
+  },
+  {
+    "requestId": "602001",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "602002",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 69
+  },
+  {
+    "requestId": "602003",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 100
+  },
+  {
+    "requestId": "602004",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 66
+  },
+  {
+    "requestId": "602005",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "fast",
+      "polite"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 46
+  },
+  {
+    "requestId": "602006",
+    "engineerId": "brigade-3",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "neat"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Ольга",
+    "daysAgo": 62
+  },
+  {
+    "requestId": "602007",
+    "engineerId": "brigade-3",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 22
+  },
+  {
+    "requestId": "602008",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 31
+  },
+  {
+    "requestId": "602009",
+    "engineerId": "brigade-3",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Сергей",
+    "daysAgo": 75
+  },
+  {
+    "requestId": "602010",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 37
+  },
+  {
+    "requestId": "602011",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 103
+  },
+  {
+    "requestId": "602012",
+    "engineerId": "brigade-3",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 89
+  },
+  {
+    "requestId": "602013",
+    "engineerId": "brigade-3",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "explained",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 74
+  },
+  {
+    "requestId": "602014",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "polite",
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "602015",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "explained",
+      "friendly"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 86
+  },
+  {
+    "requestId": "602016",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "neat",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 110
+  },
+  {
+    "requestId": "602017",
+    "engineerId": "brigade-3",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "punctual",
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 50
+  },
+  {
+    "requestId": "602018",
+    "engineerId": "brigade-3",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Алексей",
+    "daysAgo": 81
+  },
+  {
+    "requestId": "602019",
+    "engineerId": "brigade-3",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Дмитрий",
+    "daysAgo": 93
+  },
+  {
+    "requestId": "603000",
+    "engineerId": "brigade-4",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "explained",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 81
+  },
+  {
+    "requestId": "603001",
+    "engineerId": "brigade-4",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 107
+  },
+  {
+    "requestId": "603002",
+    "engineerId": "brigade-4",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 21
+  },
+  {
+    "requestId": "603003",
+    "engineerId": "brigade-4",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 6
+  },
+  {
+    "requestId": "603004",
+    "engineerId": "brigade-4",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 31
+  },
+  {
+    "requestId": "603005",
+    "engineerId": "brigade-4",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 103
+  },
+  {
+    "requestId": "603006",
+    "engineerId": "brigade-4",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 11
+  },
+  {
+    "requestId": "603007",
+    "engineerId": "brigade-4",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 86
+  },
+  {
+    "requestId": "603008",
+    "engineerId": "brigade-4",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "polite",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 78
+  },
+  {
+    "requestId": "603009",
+    "engineerId": "brigade-4",
+    "stars": 4,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 73
+  },
+  {
+    "requestId": "603010",
+    "engineerId": "brigade-4",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "explained",
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 74
+  },
+  {
+    "requestId": "603011",
+    "engineerId": "brigade-4",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "fast"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Дмитрий",
+    "daysAgo": 95
+  },
+  {
+    "requestId": "603012",
+    "engineerId": "brigade-4",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "explained",
+      "fast"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Алексей",
+    "daysAgo": 34
+  },
+  {
+    "requestId": "604000",
+    "engineerId": "brigade-5",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Дмитрий",
+    "daysAgo": 49
+  },
+  {
+    "requestId": "604001",
+    "engineerId": "brigade-5",
+    "stars": 2,
+    "tags": [],
+    "comment": "Опоздал и не всё объяснил.",
+    "clientName": "Алексей",
+    "daysAgo": 29
+  },
+  {
+    "requestId": "604002",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "polite",
+      "explained"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 36
+  },
+  {
+    "requestId": "604003",
+    "engineerId": "brigade-5",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "explained",
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 15
+  },
+  {
+    "requestId": "604004",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "neat",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 106
+  },
+  {
+    "requestId": "604005",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "punctual",
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Алексей",
+    "daysAgo": 69
+  },
+  {
+    "requestId": "604006",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 70
+  },
+  {
+    "requestId": "604007",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 105
+  },
+  {
+    "requestId": "604008",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 95
+  },
+  {
+    "requestId": "604009",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 73
+  },
+  {
+    "requestId": "604010",
+    "engineerId": "brigade-5",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "explained",
+      "neat"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 73
+  },
+  {
+    "requestId": "604011",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "neat"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Мария",
+    "daysAgo": 53
+  },
+  {
+    "requestId": "604012",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "fast",
+      "friendly"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 45
+  },
+  {
+    "requestId": "604013",
+    "engineerId": "brigade-5",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "neat",
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 51
+  },
+  {
+    "requestId": "604014",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "friendly",
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Мария",
+    "daysAgo": 33
+  },
+  {
+    "requestId": "604015",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "friendly",
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 69
+  },
+  {
+    "requestId": "604016",
+    "engineerId": "brigade-5",
+    "stars": 2,
+    "tags": [],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 92
+  },
+  {
+    "requestId": "604017",
+    "engineerId": "brigade-5",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 50
+  },
+  {
+    "requestId": "604018",
+    "engineerId": "brigade-5",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "neat",
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 50
+  },
+  {
+    "requestId": "604019",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "explained",
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Сергей",
+    "daysAgo": 20
+  },
+  {
+    "requestId": "604020",
+    "engineerId": "brigade-5",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "polite",
+      "explained"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Наталья",
+    "daysAgo": 92
+  },
+  {
+    "requestId": "604021",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 9
+  },
+  {
+    "requestId": "604022",
+    "engineerId": "brigade-5",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Мария",
+    "daysAgo": 28
+  },
+  {
+    "requestId": "604023",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 106
+  },
+  {
+    "requestId": "604024",
+    "engineerId": "brigade-5",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 29
+  },
+  {
+    "requestId": "605000",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 85
+  },
+  {
+    "requestId": "605001",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "fast"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Дмитрий",
+    "daysAgo": 76
+  },
+  {
+    "requestId": "605002",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Мария",
+    "daysAgo": 113
+  },
+  {
+    "requestId": "605003",
+    "engineerId": "brigade-6",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 103
+  },
+  {
+    "requestId": "605004",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 71
+  },
+  {
+    "requestId": "605005",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "605006",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "polite",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 59
+  },
+  {
+    "requestId": "605007",
+    "engineerId": "brigade-6",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 111
+  },
+  {
+    "requestId": "605008",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 109
+  },
+  {
+    "requestId": "605009",
+    "engineerId": "brigade-6",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 110
+  },
+  {
+    "requestId": "605010",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 39
+  },
+  {
+    "requestId": "605011",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 98
+  },
+  {
+    "requestId": "605012",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 26
+  },
+  {
+    "requestId": "605013",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "friendly",
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Алексей",
+    "daysAgo": 24
+  },
+  {
+    "requestId": "605014",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 10
+  },
+  {
+    "requestId": "605015",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 61
+  },
+  {
+    "requestId": "605016",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 55
+  },
+  {
+    "requestId": "605017",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 77
+  },
+  {
+    "requestId": "605018",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "neat",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 1
+  },
+  {
+    "requestId": "605019",
+    "engineerId": "brigade-6",
+    "stars": 2,
+    "tags": [],
+    "comment": "Опоздал и не всё объяснил.",
+    "clientName": "Дмитрий",
+    "daysAgo": 88
+  },
+  {
+    "requestId": "605020",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 84
+  },
+  {
+    "requestId": "605021",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 89
+  },
+  {
+    "requestId": "605022",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 11
+  },
+  {
+    "requestId": "605023",
+    "engineerId": "brigade-6",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 119
+  },
+  {
+    "requestId": "605024",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "punctual",
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 29
+  },
+  {
+    "requestId": "605025",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 115
+  },
+  {
+    "requestId": "605026",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Наталья",
+    "daysAgo": 119
+  },
+  {
+    "requestId": "605027",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 58
+  },
+  {
+    "requestId": "605028",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "punctual",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 31
+  },
+  {
+    "requestId": "605029",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "friendly",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Алексей",
+    "daysAgo": 67
+  },
+  {
+    "requestId": "605030",
+    "engineerId": "brigade-6",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 63
+  },
+  {
+    "requestId": "606000",
+    "engineerId": "brigade-7",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "friendly",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 66
+  },
+  {
+    "requestId": "606001",
+    "engineerId": "brigade-7",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Мария",
+    "daysAgo": 82
+  },
+  {
+    "requestId": "606002",
+    "engineerId": "brigade-7",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "explained",
+      "fast"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 114
+  },
+  {
+    "requestId": "606003",
+    "engineerId": "brigade-7",
+    "stars": 4,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 101
+  },
+  {
+    "requestId": "606004",
+    "engineerId": "brigade-7",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "fast",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 50
+  },
+  {
+    "requestId": "606005",
+    "engineerId": "brigade-7",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 92
+  },
+  {
+    "requestId": "606006",
+    "engineerId": "brigade-7",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "explained",
+      "neat"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 112
+  },
+  {
+    "requestId": "606007",
+    "engineerId": "brigade-7",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Алексей",
+    "daysAgo": 64
+  },
+  {
+    "requestId": "606008",
+    "engineerId": "brigade-7",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Наталья",
+    "daysAgo": 16
+  },
+  {
+    "requestId": "606009",
+    "engineerId": "brigade-7",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 66
+  },
+  {
+    "requestId": "606010",
+    "engineerId": "brigade-7",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 120
+  },
+  {
+    "requestId": "606011",
+    "engineerId": "brigade-7",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Наталья",
+    "daysAgo": 101
+  },
+  {
+    "requestId": "606012",
+    "engineerId": "brigade-7",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 81
+  },
+  {
+    "requestId": "606013",
+    "engineerId": "brigade-7",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Наталья",
+    "daysAgo": 50
+  },
+  {
+    "requestId": "606014",
+    "engineerId": "brigade-7",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "friendly"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 10
+  },
+  {
+    "requestId": "606015",
+    "engineerId": "brigade-7",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "polite"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Дмитрий",
+    "daysAgo": 100
+  },
+  {
+    "requestId": "606016",
+    "engineerId": "brigade-7",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "explained",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 80
+  },
+  {
+    "requestId": "606017",
+    "engineerId": "brigade-7",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 118
+  },
+  {
+    "requestId": "606018",
+    "engineerId": "brigade-7",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 61
+  },
+  {
+    "requestId": "606019",
+    "engineerId": "brigade-7",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 103
+  },
+  {
+    "requestId": "606020",
+    "engineerId": "brigade-7",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 29
+  },
+  {
+    "requestId": "606021",
+    "engineerId": "brigade-7",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "explained",
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 57
+  },
+  {
+    "requestId": "606022",
+    "engineerId": "brigade-7",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "fast",
+      "polite"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 65
+  },
+  {
+    "requestId": "607000",
+    "engineerId": "brigade-8",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "polite",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 40
+  },
+  {
+    "requestId": "607001",
+    "engineerId": "brigade-8",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 77
+  },
+  {
+    "requestId": "607002",
+    "engineerId": "brigade-8",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 51
+  },
+  {
+    "requestId": "608000",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 33
+  },
+  {
+    "requestId": "608001",
+    "engineerId": "brigade-9",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 57
+  },
+  {
+    "requestId": "608002",
+    "engineerId": "brigade-9",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "friendly",
+      "neat"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 61
+  },
+  {
+    "requestId": "608003",
+    "engineerId": "brigade-9",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "punctual",
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Дмитрий",
+    "daysAgo": 88
+  },
+  {
+    "requestId": "608004",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Сергей",
+    "daysAgo": 56
+  },
+  {
+    "requestId": "608005",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Мария",
+    "daysAgo": 110
+  },
+  {
+    "requestId": "608006",
+    "engineerId": "brigade-9",
+    "stars": 3,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Дмитрий",
+    "daysAgo": 13
+  },
+  {
+    "requestId": "608007",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "friendly",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 31
+  },
+  {
+    "requestId": "608008",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 89
+  },
+  {
+    "requestId": "608009",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "neat"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Мария",
+    "daysAgo": 51
+  },
+  {
+    "requestId": "608010",
+    "engineerId": "brigade-9",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "fast"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 117
+  },
+  {
+    "requestId": "608011",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 70
+  },
+  {
+    "requestId": "608012",
+    "engineerId": "brigade-9",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Мария",
+    "daysAgo": 80
+  },
+  {
+    "requestId": "608013",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 37
+  },
+  {
+    "requestId": "608014",
+    "engineerId": "brigade-9",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "neat"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 40
+  },
+  {
+    "requestId": "608015",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "polite",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 23
+  },
+  {
+    "requestId": "608016",
+    "engineerId": "brigade-9",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Алексей",
+    "daysAgo": 65
+  },
+  {
+    "requestId": "608017",
+    "engineerId": "brigade-9",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Алексей",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "608018",
+    "engineerId": "brigade-9",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Мария",
+    "daysAgo": 2
+  },
+  {
+    "requestId": "608019",
+    "engineerId": "brigade-9",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Дмитрий",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "608020",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "friendly",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 60
+  },
+  {
+    "requestId": "608021",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Сергей",
+    "daysAgo": 56
+  },
+  {
+    "requestId": "608022",
+    "engineerId": "brigade-9",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "friendly"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "608023",
+    "engineerId": "brigade-9",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Алексей",
+    "daysAgo": 95
+  },
+  {
+    "requestId": "608024",
+    "engineerId": "brigade-9",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Сергей",
+    "daysAgo": 57
+  },
+  {
+    "requestId": "608025",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 16
+  },
+  {
+    "requestId": "608026",
+    "engineerId": "brigade-9",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "friendly",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 25
+  },
+  {
+    "requestId": "609000",
+    "engineerId": "brigade-10",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 11
+  },
+  {
+    "requestId": "609001",
+    "engineerId": "brigade-10",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "",
+    "daysAgo": 77
+  },
+  {
+    "requestId": "609002",
+    "engineerId": "brigade-10",
+    "stars": 3,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Сергей",
+    "daysAgo": 1
+  },
+  {
+    "requestId": "609003",
+    "engineerId": "brigade-10",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Мария",
+    "daysAgo": 41
+  },
+  {
+    "requestId": "609004",
+    "engineerId": "brigade-10",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "polite",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 8
+  },
+  {
+    "requestId": "609005",
+    "engineerId": "brigade-10",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 62
+  },
+  {
+    "requestId": "609006",
+    "engineerId": "brigade-10",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "punctual",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Наталья",
+    "daysAgo": 103
+  },
+  {
+    "requestId": "609007",
+    "engineerId": "brigade-10",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "explained",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 7
+  },
+  {
+    "requestId": "609008",
+    "engineerId": "brigade-10",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Дмитрий",
+    "daysAgo": 37
+  },
+  {
+    "requestId": "609009",
+    "engineerId": "brigade-10",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 76
+  },
+  {
+    "requestId": "610000",
+    "engineerId": "brigade-11",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "explained",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "610001",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Алексей",
+    "daysAgo": 90
+  },
+  {
+    "requestId": "610002",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 4
+  },
+  {
+    "requestId": "610003",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 80
+  },
+  {
+    "requestId": "610004",
+    "engineerId": "brigade-11",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Наталья",
+    "daysAgo": 63
+  },
+  {
+    "requestId": "610005",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Сергей",
+    "daysAgo": 93
+  },
+  {
+    "requestId": "610006",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "fast",
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Алексей",
+    "daysAgo": 95
+  },
+  {
+    "requestId": "610007",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 80
+  },
+  {
+    "requestId": "610008",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "610009",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "explained",
+      "fast"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 40
+  },
+  {
+    "requestId": "610010",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 77
+  },
+  {
+    "requestId": "610011",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Наталья",
+    "daysAgo": 32
+  },
+  {
+    "requestId": "610012",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "polite",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Сергей",
+    "daysAgo": 46
+  },
+  {
+    "requestId": "610013",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "polite",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 119
+  },
+  {
+    "requestId": "610014",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Ольга",
+    "daysAgo": 58
+  },
+  {
+    "requestId": "610015",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "polite",
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 30
+  },
+  {
+    "requestId": "610016",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 65
+  },
+  {
+    "requestId": "610017",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 70
+  },
+  {
+    "requestId": "610018",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "610019",
+    "engineerId": "brigade-11",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 117
+  },
+  {
+    "requestId": "610020",
+    "engineerId": "brigade-11",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "explained",
+      "neat"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Наталья",
+    "daysAgo": 25
+  },
+  {
+    "requestId": "611000",
+    "engineerId": "brigade-12",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "punctual",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 3
+  },
+  {
+    "requestId": "611001",
+    "engineerId": "brigade-12",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "punctual",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Наталья",
+    "daysAgo": 20
+  },
+  {
+    "requestId": "611002",
+    "engineerId": "brigade-12",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Наталья",
+    "daysAgo": 104
+  },
+  {
+    "requestId": "611003",
+    "engineerId": "brigade-12",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Ольга",
+    "daysAgo": 119
+  },
+  {
+    "requestId": "611004",
+    "engineerId": "brigade-12",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Сергей",
+    "daysAgo": 100
+  },
+  {
+    "requestId": "611005",
+    "engineerId": "brigade-12",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 36
+  },
+  {
+    "requestId": "611006",
+    "engineerId": "brigade-12",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 68
+  },
+  {
+    "requestId": "611007",
+    "engineerId": "brigade-12",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Алексей",
+    "daysAgo": 115
+  },
+  {
+    "requestId": "611008",
+    "engineerId": "brigade-12",
+    "stars": 3,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 74
+  },
+  {
+    "requestId": "612000",
+    "engineerId": "brigade-13",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Наталья",
+    "daysAgo": 81
+  },
+  {
+    "requestId": "612001",
+    "engineerId": "brigade-13",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 68
+  },
+  {
+    "requestId": "612002",
+    "engineerId": "brigade-13",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "neat",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 44
+  },
+  {
+    "requestId": "612003",
+    "engineerId": "brigade-13",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 15
+  },
+  {
+    "requestId": "612004",
+    "engineerId": "brigade-13",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "polite",
+      "neat"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Сергей",
+    "daysAgo": 76
+  },
+  {
+    "requestId": "613000",
+    "engineerId": "brigade-14",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Дмитрий",
+    "daysAgo": 2
+  },
+  {
+    "requestId": "613001",
+    "engineerId": "brigade-14",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 34
+  },
+  {
+    "requestId": "613002",
+    "engineerId": "brigade-14",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Сергей",
+    "daysAgo": 25
+  },
+  {
+    "requestId": "614000",
+    "engineerId": "brigade-15",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "explained",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Наталья",
+    "daysAgo": 110
+  },
+  {
+    "requestId": "614001",
+    "engineerId": "brigade-15",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 83
+  },
+  {
+    "requestId": "614002",
+    "engineerId": "brigade-15",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 21
+  },
+  {
+    "requestId": "615000",
+    "engineerId": "brigade-16",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Наталья",
+    "daysAgo": 68
+  },
+  {
+    "requestId": "615001",
+    "engineerId": "brigade-16",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 57
+  },
+  {
+    "requestId": "615002",
+    "engineerId": "brigade-16",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "fast",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 27
+  },
+  {
+    "requestId": "615003",
+    "engineerId": "brigade-16",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 58
+  },
+  {
+    "requestId": "615004",
+    "engineerId": "brigade-16",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Наталья",
+    "daysAgo": 113
+  },
+  {
+    "requestId": "615005",
+    "engineerId": "brigade-16",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "explained"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Сергей",
+    "daysAgo": 32
+  },
+  {
+    "requestId": "615006",
+    "engineerId": "brigade-16",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 118
+  },
+  {
+    "requestId": "615007",
+    "engineerId": "brigade-16",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Дмитрий",
+    "daysAgo": 42
+  },
+  {
+    "requestId": "615008",
+    "engineerId": "brigade-16",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "punctual"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 108
+  },
+  {
+    "requestId": "615009",
+    "engineerId": "brigade-16",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 107
+  },
+  {
+    "requestId": "615010",
+    "engineerId": "brigade-16",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "fast",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 58
+  },
+  {
+    "requestId": "615011",
+    "engineerId": "brigade-16",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 17
+  },
+  {
+    "requestId": "616000",
+    "engineerId": "brigade-17",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 25
+  },
+  {
+    "requestId": "616001",
+    "engineerId": "brigade-17",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Наталья",
+    "daysAgo": 59
+  },
+  {
+    "requestId": "616002",
+    "engineerId": "brigade-17",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 16
+  },
+  {
+    "requestId": "616003",
+    "engineerId": "brigade-17",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 14
+  },
+  {
+    "requestId": "616004",
+    "engineerId": "brigade-17",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Ольга",
+    "daysAgo": 78
+  },
+  {
+    "requestId": "616005",
+    "engineerId": "brigade-17",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "fast",
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 8
+  },
+  {
+    "requestId": "616006",
+    "engineerId": "brigade-17",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Ольга",
+    "daysAgo": 89
+  },
+  {
+    "requestId": "616007",
+    "engineerId": "brigade-17",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 42
+  },
+  {
+    "requestId": "616008",
+    "engineerId": "brigade-17",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "explained",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 100
+  },
+  {
+    "requestId": "616009",
+    "engineerId": "brigade-17",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "neat",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 118
+  },
+  {
+    "requestId": "616010",
+    "engineerId": "brigade-17",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 79
+  },
+  {
+    "requestId": "616011",
+    "engineerId": "brigade-17",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "neat",
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Мария",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "617000",
+    "engineerId": "brigade-18",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "",
+    "daysAgo": 58
+  },
+  {
+    "requestId": "617001",
+    "engineerId": "brigade-18",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Наталья",
+    "daysAgo": 33
+  },
+  {
+    "requestId": "617002",
+    "engineerId": "brigade-18",
+    "stars": 2,
+    "tags": [],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 54
+  },
+  {
+    "requestId": "617003",
+    "engineerId": "brigade-18",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 78
+  },
+  {
+    "requestId": "617004",
+    "engineerId": "brigade-18",
+    "stars": 2,
+    "tags": [],
+    "comment": "Пришлось вызывать повторно.",
+    "clientName": "Сергей",
+    "daysAgo": 7
+  },
+  {
+    "requestId": "617005",
+    "engineerId": "brigade-18",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 78
+  },
+  {
+    "requestId": "617006",
+    "engineerId": "brigade-18",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "punctual",
+      "friendly"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Алексей",
+    "daysAgo": 52
+  },
+  {
+    "requestId": "617007",
+    "engineerId": "brigade-18",
+    "stars": 4,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "617008",
+    "engineerId": "brigade-18",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "fast",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 65
+  },
+  {
+    "requestId": "617009",
+    "engineerId": "brigade-18",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 44
+  },
+  {
+    "requestId": "617010",
+    "engineerId": "brigade-18",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Сергей",
+    "daysAgo": 59
+  },
+  {
+    "requestId": "617011",
+    "engineerId": "brigade-18",
+    "stars": 2,
+    "tags": [],
+    "comment": "Пришлось вызывать повторно.",
+    "clientName": "Сергей",
+    "daysAgo": 24
+  },
+  {
+    "requestId": "617012",
+    "engineerId": "brigade-18",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 86
+  },
+  {
+    "requestId": "617013",
+    "engineerId": "brigade-18",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 92
+  },
+  {
+    "requestId": "617014",
+    "engineerId": "brigade-18",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "neat",
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 44
+  },
+  {
+    "requestId": "617015",
+    "engineerId": "brigade-18",
+    "stars": 4,
+    "tags": [
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 15
+  },
+  {
+    "requestId": "617016",
+    "engineerId": "brigade-18",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 4
+  },
+  {
+    "requestId": "617017",
+    "engineerId": "brigade-18",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 95
+  },
+  {
+    "requestId": "617018",
+    "engineerId": "brigade-18",
+    "stars": 2,
+    "tags": [],
+    "comment": "Опоздал и не всё объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 72
+  },
+  {
+    "requestId": "617019",
+    "engineerId": "brigade-18",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Мария",
+    "daysAgo": 114
+  },
+  {
+    "requestId": "617020",
+    "engineerId": "brigade-18",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 99
+  },
+  {
+    "requestId": "617021",
+    "engineerId": "brigade-18",
+    "stars": 4,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Мария",
+    "daysAgo": 42
+  },
+  {
+    "requestId": "617022",
+    "engineerId": "brigade-18",
+    "stars": 3,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Сергей",
+    "daysAgo": 16
+  },
+  {
+    "requestId": "617023",
+    "engineerId": "brigade-18",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 31
+  },
+  {
+    "requestId": "617024",
+    "engineerId": "brigade-18",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "neat",
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 33
+  },
+  {
+    "requestId": "617025",
+    "engineerId": "brigade-18",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 43
+  },
+  {
+    "requestId": "618000",
+    "engineerId": "brigade-19",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 47
+  },
+  {
+    "requestId": "618001",
+    "engineerId": "brigade-19",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "explained",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 51
+  },
+  {
+    "requestId": "618002",
+    "engineerId": "brigade-19",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Дмитрий",
+    "daysAgo": 38
+  },
+  {
+    "requestId": "619000",
+    "engineerId": "brigade-20",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "friendly",
+      "fast"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Наталья",
+    "daysAgo": 72
+  },
+  {
+    "requestId": "619001",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "explained",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Наталья",
+    "daysAgo": 67
+  },
+  {
+    "requestId": "619002",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "619003",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 82
+  },
+  {
+    "requestId": "619004",
+    "engineerId": "brigade-20",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "friendly",
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Наталья",
+    "daysAgo": 38
+  },
+  {
+    "requestId": "619005",
+    "engineerId": "brigade-20",
+    "stars": 3,
+    "tags": [
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 73
+  },
+  {
+    "requestId": "619006",
+    "engineerId": "brigade-20",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 37
+  },
+  {
+    "requestId": "619007",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 67
+  },
+  {
+    "requestId": "619008",
+    "engineerId": "brigade-20",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 83
+  },
+  {
+    "requestId": "619009",
+    "engineerId": "brigade-20",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 101
+  },
+  {
+    "requestId": "619010",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "punctual",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 30
+  },
+  {
+    "requestId": "619011",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "friendly"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Мария",
+    "daysAgo": 109
+  },
+  {
+    "requestId": "619012",
+    "engineerId": "brigade-20",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "explained"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 84
+  },
+  {
+    "requestId": "619013",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 37
+  },
+  {
+    "requestId": "619014",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "friendly",
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 90
+  },
+  {
+    "requestId": "619015",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 79
+  },
+  {
+    "requestId": "619016",
+    "engineerId": "brigade-20",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Ольга",
+    "daysAgo": 55
+  },
+  {
+    "requestId": "619017",
+    "engineerId": "brigade-20",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Ольга",
+    "daysAgo": 52
+  },
+  {
+    "requestId": "619018",
+    "engineerId": "brigade-20",
+    "stars": 3,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Наталья",
+    "daysAgo": 76
+  },
+  {
+    "requestId": "619019",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 106
+  },
+  {
+    "requestId": "619020",
+    "engineerId": "brigade-20",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Сергей",
+    "daysAgo": 31
+  },
+  {
+    "requestId": "619021",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 98
+  },
+  {
+    "requestId": "619022",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 63
+  },
+  {
+    "requestId": "619023",
+    "engineerId": "brigade-20",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "friendly",
+      "neat"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "619024",
+    "engineerId": "brigade-20",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Дмитрий",
+    "daysAgo": 45
+  },
+  {
+    "requestId": "620000",
+    "engineerId": "brigade-21",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "punctual",
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 71
+  },
+  {
+    "requestId": "620001",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "fast",
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 35
+  },
+  {
+    "requestId": "620002",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 96
+  },
+  {
+    "requestId": "620003",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "620004",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "explained"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 14
+  },
+  {
+    "requestId": "620005",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "neat",
+      "friendly"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Наталья",
+    "daysAgo": 40
+  },
+  {
+    "requestId": "620006",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 30
+  },
+  {
+    "requestId": "620007",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 27
+  },
+  {
+    "requestId": "620008",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "punctual",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 78
+  },
+  {
+    "requestId": "620009",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "friendly",
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 91
+  },
+  {
+    "requestId": "620010",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "neat",
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 80
+  },
+  {
+    "requestId": "620011",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 93
+  },
+  {
+    "requestId": "620012",
+    "engineerId": "brigade-21",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Ольга",
+    "daysAgo": 80
+  },
+  {
+    "requestId": "621000",
+    "engineerId": "brigade-22",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 38
+  },
+  {
+    "requestId": "621001",
+    "engineerId": "brigade-22",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 33
+  },
+  {
+    "requestId": "621002",
+    "engineerId": "brigade-22",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Сергей",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "622000",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Ольга",
+    "daysAgo": 3
+  },
+  {
+    "requestId": "622001",
+    "engineerId": "brigade-23",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 58
+  },
+  {
+    "requestId": "622002",
+    "engineerId": "brigade-23",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "neat",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Дмитрий",
+    "daysAgo": 110
+  },
+  {
+    "requestId": "622003",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "explained",
+      "neat"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 49
+  },
+  {
+    "requestId": "622004",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "polite",
+      "neat"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Мария",
+    "daysAgo": 1
+  },
+  {
+    "requestId": "622005",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 81
+  },
+  {
+    "requestId": "622006",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "polite",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 120
+  },
+  {
+    "requestId": "622007",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 120
+  },
+  {
+    "requestId": "622008",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "fast"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 64
+  },
+  {
+    "requestId": "622009",
+    "engineerId": "brigade-23",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "polite",
+      "neat"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 113
+  },
+  {
+    "requestId": "622010",
+    "engineerId": "brigade-23",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 58
+  },
+  {
+    "requestId": "622011",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 44
+  },
+  {
+    "requestId": "622012",
+    "engineerId": "brigade-23",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 97
+  },
+  {
+    "requestId": "622013",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 62
+  },
+  {
+    "requestId": "622014",
+    "engineerId": "brigade-23",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 27
+  },
+  {
+    "requestId": "622015",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "punctual",
+      "fast"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Мария",
+    "daysAgo": 56
+  },
+  {
+    "requestId": "622016",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 8
+  },
+  {
+    "requestId": "622017",
+    "engineerId": "brigade-23",
+    "stars": 4,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "622018",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Алексей",
+    "daysAgo": 84
+  },
+  {
+    "requestId": "622019",
+    "engineerId": "brigade-23",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Наталья",
+    "daysAgo": 102
+  },
+  {
+    "requestId": "623000",
+    "engineerId": "brigade-24",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "polite",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 34
+  },
+  {
+    "requestId": "623001",
+    "engineerId": "brigade-24",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 23
+  },
+  {
+    "requestId": "623002",
+    "engineerId": "brigade-24",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 19
+  },
+  {
+    "requestId": "623003",
+    "engineerId": "brigade-24",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "neat",
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 27
+  },
+  {
+    "requestId": "623004",
+    "engineerId": "brigade-24",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 43
+  },
+  {
+    "requestId": "623005",
+    "engineerId": "brigade-24",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Сергей",
+    "daysAgo": 19
+  },
+  {
+    "requestId": "623006",
+    "engineerId": "brigade-24",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 88
+  },
+  {
+    "requestId": "623007",
+    "engineerId": "brigade-24",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 48
+  },
+  {
+    "requestId": "623008",
+    "engineerId": "brigade-24",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Алексей",
+    "daysAgo": 49
+  },
+  {
+    "requestId": "623009",
+    "engineerId": "brigade-24",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "624000",
+    "engineerId": "brigade-25",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 84
+  },
+  {
+    "requestId": "624001",
+    "engineerId": "brigade-25",
+    "stars": 3,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 112
+  },
+  {
+    "requestId": "624002",
+    "engineerId": "brigade-25",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 33
+  },
+  {
+    "requestId": "624003",
+    "engineerId": "brigade-25",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "polite",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 62
+  },
+  {
+    "requestId": "624004",
+    "engineerId": "brigade-25",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 37
+  },
+  {
+    "requestId": "624005",
+    "engineerId": "brigade-25",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 60
+  },
+  {
+    "requestId": "624006",
+    "engineerId": "brigade-25",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "punctual",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Сергей",
+    "daysAgo": 46
+  },
+  {
+    "requestId": "624007",
+    "engineerId": "brigade-25",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "fast",
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Наталья",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "624008",
+    "engineerId": "brigade-25",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 2
+  },
+  {
+    "requestId": "624009",
+    "engineerId": "brigade-25",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "punctual",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 34
+  },
+  {
+    "requestId": "624010",
+    "engineerId": "brigade-25",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 71
+  },
+  {
+    "requestId": "624011",
+    "engineerId": "brigade-25",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "fast",
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Алексей",
+    "daysAgo": 94
+  },
+  {
+    "requestId": "625000",
+    "engineerId": "brigade-26",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Дмитрий",
+    "daysAgo": 47
+  },
+  {
+    "requestId": "625001",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 71
+  },
+  {
+    "requestId": "625002",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "explained"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Сергей",
+    "daysAgo": 18
+  },
+  {
+    "requestId": "625003",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "friendly",
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Алексей",
+    "daysAgo": 106
+  },
+  {
+    "requestId": "625004",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "punctual",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Алексей",
+    "daysAgo": 23
+  },
+  {
+    "requestId": "625005",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 103
+  },
+  {
+    "requestId": "625006",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "punctual",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 7
+  },
+  {
+    "requestId": "625007",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 83
+  },
+  {
+    "requestId": "625008",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 93
+  },
+  {
+    "requestId": "625009",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Дмитрий",
+    "daysAgo": 87
+  },
+  {
+    "requestId": "625010",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Наталья",
+    "daysAgo": 104
+  },
+  {
+    "requestId": "625011",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 53
+  },
+  {
+    "requestId": "625012",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 48
+  },
+  {
+    "requestId": "625013",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Дмитрий",
+    "daysAgo": 95
+  },
+  {
+    "requestId": "625014",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Сергей",
+    "daysAgo": 58
+  },
+  {
+    "requestId": "625015",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 64
+  },
+  {
+    "requestId": "625016",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 101
+  },
+  {
+    "requestId": "625017",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "polite",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 37
+  },
+  {
+    "requestId": "625018",
+    "engineerId": "brigade-26",
+    "stars": 3,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Мария",
+    "daysAgo": 32
+  },
+  {
+    "requestId": "625019",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "friendly"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "625020",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 13
+  },
+  {
+    "requestId": "625021",
+    "engineerId": "brigade-26",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 11
+  },
+  {
+    "requestId": "625022",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 65
+  },
+  {
+    "requestId": "625023",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 16
+  },
+  {
+    "requestId": "625024",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "friendly"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 45
+  },
+  {
+    "requestId": "625025",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "friendly",
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 61
+  },
+  {
+    "requestId": "625026",
+    "engineerId": "brigade-26",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 6
+  },
+  {
+    "requestId": "625027",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 14
+  },
+  {
+    "requestId": "625028",
+    "engineerId": "brigade-26",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 23
+  },
+  {
+    "requestId": "626000",
+    "engineerId": "brigade-27",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 62
+  },
+  {
+    "requestId": "626001",
+    "engineerId": "brigade-27",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 57
+  },
+  {
+    "requestId": "626002",
+    "engineerId": "brigade-27",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 17
+  },
+  {
+    "requestId": "627000",
+    "engineerId": "brigade-28",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 17
+  },
+  {
+    "requestId": "627001",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Мария",
+    "daysAgo": 96
+  },
+  {
+    "requestId": "627002",
+    "engineerId": "brigade-28",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "",
+    "daysAgo": 82
+  },
+  {
+    "requestId": "627003",
+    "engineerId": "brigade-28",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 106
+  },
+  {
+    "requestId": "627004",
+    "engineerId": "brigade-28",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Сергей",
+    "daysAgo": 55
+  },
+  {
+    "requestId": "627005",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 111
+  },
+  {
+    "requestId": "627006",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 51
+  },
+  {
+    "requestId": "627007",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 14
+  },
+  {
+    "requestId": "627008",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "punctual",
+      "neat"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Дмитрий",
+    "daysAgo": 76
+  },
+  {
+    "requestId": "627009",
+    "engineerId": "brigade-28",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 104
+  },
+  {
+    "requestId": "627010",
+    "engineerId": "brigade-28",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 112
+  },
+  {
+    "requestId": "627011",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "punctual",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 56
+  },
+  {
+    "requestId": "627012",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "punctual",
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Алексей",
+    "daysAgo": 50
+  },
+  {
+    "requestId": "627013",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "explained"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Сергей",
+    "daysAgo": 90
+  },
+  {
+    "requestId": "627014",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Сергей",
+    "daysAgo": 32
+  },
+  {
+    "requestId": "627015",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 68
+  },
+  {
+    "requestId": "627016",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 106
+  },
+  {
+    "requestId": "627017",
+    "engineerId": "brigade-28",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 117
+  },
+  {
+    "requestId": "627018",
+    "engineerId": "brigade-28",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 20
+  },
+  {
+    "requestId": "627019",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 82
+  },
+  {
+    "requestId": "627020",
+    "engineerId": "brigade-28",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "",
+    "daysAgo": 109
+  },
+  {
+    "requestId": "627021",
+    "engineerId": "brigade-28",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Мария",
+    "daysAgo": 35
+  },
+  {
+    "requestId": "627022",
+    "engineerId": "brigade-28",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "explained",
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Мария",
+    "daysAgo": 51
+  },
+  {
+    "requestId": "628000",
+    "engineerId": "brigade-29",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "neat"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Мария",
+    "daysAgo": 52
+  },
+  {
+    "requestId": "628001",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Сергей",
+    "daysAgo": 30
+  },
+  {
+    "requestId": "628002",
+    "engineerId": "brigade-29",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 21
+  },
+  {
+    "requestId": "628003",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Наталья",
+    "daysAgo": 83
+  },
+  {
+    "requestId": "628004",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "friendly",
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 35
+  },
+  {
+    "requestId": "628005",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Дмитрий",
+    "daysAgo": 35
+  },
+  {
+    "requestId": "628006",
+    "engineerId": "brigade-29",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 103
+  },
+  {
+    "requestId": "628007",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 47
+  },
+  {
+    "requestId": "628008",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "punctual",
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 2
+  },
+  {
+    "requestId": "628009",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "fast",
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Дмитрий",
+    "daysAgo": 14
+  },
+  {
+    "requestId": "628010",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "neat",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 100
+  },
+  {
+    "requestId": "628011",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 66
+  },
+  {
+    "requestId": "628012",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 115
+  },
+  {
+    "requestId": "628013",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 4
+  },
+  {
+    "requestId": "628014",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "628015",
+    "engineerId": "brigade-29",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "friendly",
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Мария",
+    "daysAgo": 83
+  },
+  {
+    "requestId": "628016",
+    "engineerId": "brigade-29",
+    "stars": 4,
+    "tags": [
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 107
+  },
+  {
+    "requestId": "628017",
+    "engineerId": "brigade-29",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 100
+  },
+  {
+    "requestId": "628018",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Наталья",
+    "daysAgo": 56
+  },
+  {
+    "requestId": "628019",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Дмитрий",
+    "daysAgo": 18
+  },
+  {
+    "requestId": "628020",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "explained",
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 76
+  },
+  {
+    "requestId": "628021",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "explained"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Дмитрий",
+    "daysAgo": 69
+  },
+  {
+    "requestId": "628022",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "neat",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 14
+  },
+  {
+    "requestId": "628023",
+    "engineerId": "brigade-29",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 33
+  },
+  {
+    "requestId": "629000",
+    "engineerId": "brigade-30",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 19
+  },
+  {
+    "requestId": "629001",
+    "engineerId": "brigade-30",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 50
+  },
+  {
+    "requestId": "629002",
+    "engineerId": "brigade-30",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 34
+  },
+  {
+    "requestId": "629003",
+    "engineerId": "brigade-30",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 74
+  },
+  {
+    "requestId": "629004",
+    "engineerId": "brigade-30",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "fast",
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 113
+  },
+  {
+    "requestId": "629005",
+    "engineerId": "brigade-30",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 103
+  },
+  {
+    "requestId": "629006",
+    "engineerId": "brigade-30",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Мария",
+    "daysAgo": 29
+  },
+  {
+    "requestId": "629007",
+    "engineerId": "brigade-30",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 8
+  },
+  {
+    "requestId": "629008",
+    "engineerId": "brigade-30",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "friendly",
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 119
+  },
+  {
+    "requestId": "629009",
+    "engineerId": "brigade-30",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 55
+  },
+  {
+    "requestId": "629010",
+    "engineerId": "brigade-30",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "punctual",
+      "fast"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Дмитрий",
+    "daysAgo": 17
+  },
+  {
+    "requestId": "630000",
+    "engineerId": "brigade-31",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "punctual",
+      "friendly"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 105
+  },
+  {
+    "requestId": "630001",
+    "engineerId": "brigade-31",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Мария",
+    "daysAgo": 86
+  },
+  {
+    "requestId": "630002",
+    "engineerId": "brigade-31",
+    "stars": 4,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Мария",
+    "daysAgo": 48
+  },
+  {
+    "requestId": "630003",
+    "engineerId": "brigade-31",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Дмитрий",
+    "daysAgo": 44
+  },
+  {
+    "requestId": "630004",
+    "engineerId": "brigade-31",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 79
+  },
+  {
+    "requestId": "630005",
+    "engineerId": "brigade-31",
+    "stars": 2,
+    "tags": [],
+    "comment": "Пришлось вызывать повторно.",
+    "clientName": "",
+    "daysAgo": 14
+  },
+  {
+    "requestId": "630006",
+    "engineerId": "brigade-31",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 51
+  },
+  {
+    "requestId": "631000",
+    "engineerId": "brigade-32",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 110
+  },
+  {
+    "requestId": "631001",
+    "engineerId": "brigade-32",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "neat",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Дмитрий",
+    "daysAgo": 43
+  },
+  {
+    "requestId": "631002",
+    "engineerId": "brigade-32",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "neat"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 63
+  },
+  {
+    "requestId": "631003",
+    "engineerId": "brigade-32",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 15
+  },
+  {
+    "requestId": "631004",
+    "engineerId": "brigade-32",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 70
+  },
+  {
+    "requestId": "631005",
+    "engineerId": "brigade-32",
+    "stars": 4,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 81
+  },
+  {
+    "requestId": "631006",
+    "engineerId": "brigade-32",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Мария",
+    "daysAgo": 29
+  },
+  {
+    "requestId": "631007",
+    "engineerId": "brigade-32",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 85
+  },
+  {
+    "requestId": "631008",
+    "engineerId": "brigade-32",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 51
+  },
+  {
+    "requestId": "631009",
+    "engineerId": "brigade-32",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Ольга",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "632000",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 30
+  },
+  {
+    "requestId": "632001",
+    "engineerId": "brigade-33",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "",
+    "daysAgo": 38
+  },
+  {
+    "requestId": "632002",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 85
+  },
+  {
+    "requestId": "632003",
+    "engineerId": "brigade-33",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "punctual"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 90
+  },
+  {
+    "requestId": "632004",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "friendly"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Дмитрий",
+    "daysAgo": 99
+  },
+  {
+    "requestId": "632005",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "fast",
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 69
+  },
+  {
+    "requestId": "632006",
+    "engineerId": "brigade-33",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Ольга",
+    "daysAgo": 82
+  },
+  {
+    "requestId": "632007",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Мария",
+    "daysAgo": 96
+  },
+  {
+    "requestId": "632008",
+    "engineerId": "brigade-33",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 84
+  },
+  {
+    "requestId": "632009",
+    "engineerId": "brigade-33",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Дмитрий",
+    "daysAgo": 98
+  },
+  {
+    "requestId": "632010",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "friendly",
+      "polite"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 111
+  },
+  {
+    "requestId": "632011",
+    "engineerId": "brigade-33",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 105
+  },
+  {
+    "requestId": "632012",
+    "engineerId": "brigade-33",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Мария",
+    "daysAgo": 55
+  },
+  {
+    "requestId": "632013",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "fast",
+      "friendly"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Дмитрий",
+    "daysAgo": 14
+  },
+  {
+    "requestId": "632014",
+    "engineerId": "brigade-33",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Наталья",
+    "daysAgo": 13
+  },
+  {
+    "requestId": "632015",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "punctual",
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 25
+  },
+  {
+    "requestId": "632016",
+    "engineerId": "brigade-33",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "fast",
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 120
+  },
+  {
+    "requestId": "632017",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 25
+  },
+  {
+    "requestId": "632018",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 73
+  },
+  {
+    "requestId": "632019",
+    "engineerId": "brigade-33",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 53
+  },
+  {
+    "requestId": "632020",
+    "engineerId": "brigade-33",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Ольга",
+    "daysAgo": 46
+  },
+  {
+    "requestId": "632021",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "neat"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Наталья",
+    "daysAgo": 78
+  },
+  {
+    "requestId": "632022",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "friendly",
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Сергей",
+    "daysAgo": 83
+  },
+  {
+    "requestId": "632023",
+    "engineerId": "brigade-33",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Наталья",
+    "daysAgo": 42
+  },
+  {
+    "requestId": "632024",
+    "engineerId": "brigade-33",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "polite"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Наталья",
+    "daysAgo": 33
+  },
+  {
+    "requestId": "632025",
+    "engineerId": "brigade-33",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 102
+  },
+  {
+    "requestId": "632026",
+    "engineerId": "brigade-33",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 35
+  },
+  {
+    "requestId": "632027",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Дмитрий",
+    "daysAgo": 75
+  },
+  {
+    "requestId": "632028",
+    "engineerId": "brigade-33",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Ольга",
+    "daysAgo": 70
+  },
+  {
+    "requestId": "632029",
+    "engineerId": "brigade-33",
+    "stars": 2,
+    "tags": [],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 103
+  },
+  {
+    "requestId": "632030",
+    "engineerId": "brigade-33",
+    "stars": 2,
+    "tags": [],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 88
+  },
+  {
+    "requestId": "632031",
+    "engineerId": "brigade-33",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 36
+  },
+  {
+    "requestId": "633000",
+    "engineerId": "brigade-34",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 98
+  },
+  {
+    "requestId": "633001",
+    "engineerId": "brigade-34",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 40
+  },
+  {
+    "requestId": "633002",
+    "engineerId": "brigade-34",
+    "stars": 3,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Дмитрий",
+    "daysAgo": 15
+  },
+  {
+    "requestId": "633003",
+    "engineerId": "brigade-34",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 29
+  },
+  {
+    "requestId": "633004",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "neat"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 118
+  },
+  {
+    "requestId": "633005",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "fast",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Сергей",
+    "daysAgo": 34
+  },
+  {
+    "requestId": "633006",
+    "engineerId": "brigade-34",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Сергей",
+    "daysAgo": 75
+  },
+  {
+    "requestId": "633007",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 92
+  },
+  {
+    "requestId": "633008",
+    "engineerId": "brigade-34",
+    "stars": 3,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 7
+  },
+  {
+    "requestId": "633009",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 60
+  },
+  {
+    "requestId": "633010",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "friendly",
+      "explained"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Дмитрий",
+    "daysAgo": 60
+  },
+  {
+    "requestId": "633011",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Дмитрий",
+    "daysAgo": 27
+  },
+  {
+    "requestId": "633012",
+    "engineerId": "brigade-34",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 33
+  },
+  {
+    "requestId": "633013",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 49
+  },
+  {
+    "requestId": "633014",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "neat"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 65
+  },
+  {
+    "requestId": "633015",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 49
+  },
+  {
+    "requestId": "633016",
+    "engineerId": "brigade-34",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Мария",
+    "daysAgo": 37
+  },
+  {
+    "requestId": "633017",
+    "engineerId": "brigade-34",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "fast",
+      "punctual"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 24
+  },
+  {
+    "requestId": "633018",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "friendly",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 118
+  },
+  {
+    "requestId": "633019",
+    "engineerId": "brigade-34",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 115
+  },
+  {
+    "requestId": "633020",
+    "engineerId": "brigade-34",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 79
+  },
+  {
+    "requestId": "633021",
+    "engineerId": "brigade-34",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "punctual"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 43
+  },
+  {
+    "requestId": "633022",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "polite",
+      "friendly"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 32
+  },
+  {
+    "requestId": "633023",
+    "engineerId": "brigade-34",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Мария",
+    "daysAgo": 6
+  },
+  {
+    "requestId": "633024",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Дмитрий",
+    "daysAgo": 48
+  },
+  {
+    "requestId": "633025",
+    "engineerId": "brigade-34",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 92
+  },
+  {
+    "requestId": "633026",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 34
+  },
+  {
+    "requestId": "633027",
+    "engineerId": "brigade-34",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Алексей",
+    "daysAgo": 50
+  },
+  {
+    "requestId": "633028",
+    "engineerId": "brigade-34",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 80
+  },
+  {
+    "requestId": "633029",
+    "engineerId": "brigade-34",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "punctual"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 55
+  },
+  {
+    "requestId": "633030",
+    "engineerId": "brigade-34",
+    "stars": 3,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Сергей",
+    "daysAgo": 37
+  },
+  {
+    "requestId": "633031",
+    "engineerId": "brigade-34",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 106
+  },
+  {
+    "requestId": "634000",
+    "engineerId": "brigade-35",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Дмитрий",
+    "daysAgo": 65
+  },
+  {
+    "requestId": "634001",
+    "engineerId": "brigade-35",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Дмитрий",
+    "daysAgo": 82
+  },
+  {
+    "requestId": "634002",
+    "engineerId": "brigade-35",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "polite",
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 92
+  },
+  {
+    "requestId": "634003",
+    "engineerId": "brigade-35",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "punctual",
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 79
+  },
+  {
+    "requestId": "634004",
+    "engineerId": "brigade-35",
+    "stars": 4,
+    "tags": [
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 101
+  },
+  {
+    "requestId": "634005",
+    "engineerId": "brigade-35",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "fast",
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 13
+  },
+  {
+    "requestId": "634006",
+    "engineerId": "brigade-35",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "",
+    "daysAgo": 37
+  },
+  {
+    "requestId": "634007",
+    "engineerId": "brigade-35",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 22
+  },
+  {
+    "requestId": "634008",
+    "engineerId": "brigade-35",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 25
+  },
+  {
+    "requestId": "634009",
+    "engineerId": "brigade-35",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Наталья",
+    "daysAgo": 86
+  },
+  {
+    "requestId": "634010",
+    "engineerId": "brigade-35",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Наталья",
+    "daysAgo": 102
+  },
+  {
+    "requestId": "634011",
+    "engineerId": "brigade-35",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Мария",
+    "daysAgo": 6
+  },
+  {
+    "requestId": "634012",
+    "engineerId": "brigade-35",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 40
+  },
+  {
+    "requestId": "634013",
+    "engineerId": "brigade-35",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "friendly"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 60
+  },
+  {
+    "requestId": "634014",
+    "engineerId": "brigade-35",
+    "stars": 4,
+    "tags": [
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 13
+  },
+  {
+    "requestId": "634015",
+    "engineerId": "brigade-35",
+    "stars": 3,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Мария",
+    "daysAgo": 119
+  },
+  {
+    "requestId": "634016",
+    "engineerId": "brigade-35",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 81
+  },
+  {
+    "requestId": "634017",
+    "engineerId": "brigade-35",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "punctual",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 76
+  },
+  {
+    "requestId": "634018",
+    "engineerId": "brigade-35",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "neat",
+      "explained"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Дмитрий",
+    "daysAgo": 31
+  },
+  {
+    "requestId": "634019",
+    "engineerId": "brigade-35",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 87
+  },
+  {
+    "requestId": "634020",
+    "engineerId": "brigade-35",
+    "stars": 3,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Ольга",
+    "daysAgo": 79
+  },
+  {
+    "requestId": "634021",
+    "engineerId": "brigade-35",
+    "stars": 4,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 87
+  },
+  {
+    "requestId": "634022",
+    "engineerId": "brigade-35",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "neat",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 20
+  },
+  {
+    "requestId": "634023",
+    "engineerId": "brigade-35",
+    "stars": 3,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 106
+  },
+  {
+    "requestId": "634024",
+    "engineerId": "brigade-35",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 75
+  },
+  {
+    "requestId": "634025",
+    "engineerId": "brigade-35",
+    "stars": 2,
+    "tags": [],
+    "comment": "Пришлось вызывать повторно.",
+    "clientName": "Мария",
+    "daysAgo": 63
+  },
+  {
+    "requestId": "634026",
+    "engineerId": "brigade-35",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Алексей",
+    "daysAgo": 73
+  },
+  {
+    "requestId": "634027",
+    "engineerId": "brigade-35",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Дмитрий",
+    "daysAgo": 82
+  },
+  {
+    "requestId": "634028",
+    "engineerId": "brigade-35",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "fast"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Алексей",
+    "daysAgo": 39
+  },
+  {
+    "requestId": "635000",
+    "engineerId": "brigade-36",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 106
+  },
+  {
+    "requestId": "635001",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "neat"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Мария",
+    "daysAgo": 100
+  },
+  {
+    "requestId": "635002",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "polite",
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Мария",
+    "daysAgo": 55
+  },
+  {
+    "requestId": "635003",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 38
+  },
+  {
+    "requestId": "635004",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 100
+  },
+  {
+    "requestId": "635005",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Алексей",
+    "daysAgo": 49
+  },
+  {
+    "requestId": "635006",
+    "engineerId": "brigade-36",
+    "stars": 3,
+    "tags": [
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 51
+  },
+  {
+    "requestId": "635007",
+    "engineerId": "brigade-36",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Сергей",
+    "daysAgo": 13
+  },
+  {
+    "requestId": "635008",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 27
+  },
+  {
+    "requestId": "635009",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 104
+  },
+  {
+    "requestId": "635010",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 40
+  },
+  {
+    "requestId": "635011",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "explained",
+      "friendly"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 6
+  },
+  {
+    "requestId": "635012",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "punctual",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Мария",
+    "daysAgo": 10
+  },
+  {
+    "requestId": "635013",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "punctual",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 90
+  },
+  {
+    "requestId": "635014",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 62
+  },
+  {
+    "requestId": "635015",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "fast",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Сергей",
+    "daysAgo": 114
+  },
+  {
+    "requestId": "635016",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 19
+  },
+  {
+    "requestId": "635017",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Дмитрий",
+    "daysAgo": 98
+  },
+  {
+    "requestId": "635018",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 55
+  },
+  {
+    "requestId": "635019",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 83
+  },
+  {
+    "requestId": "635020",
+    "engineerId": "brigade-36",
+    "stars": 3,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 52
+  },
+  {
+    "requestId": "635021",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Дмитрий",
+    "daysAgo": 15
+  },
+  {
+    "requestId": "635022",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 107
+  },
+  {
+    "requestId": "635023",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 79
+  },
+  {
+    "requestId": "635024",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 81
+  },
+  {
+    "requestId": "635025",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 111
+  },
+  {
+    "requestId": "635026",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "explained",
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 73
+  },
+  {
+    "requestId": "635027",
+    "engineerId": "brigade-36",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Ольга",
+    "daysAgo": 94
+  },
+  {
+    "requestId": "635028",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "friendly",
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "",
+    "daysAgo": 106
+  },
+  {
+    "requestId": "635029",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Наталья",
+    "daysAgo": 60
+  },
+  {
+    "requestId": "635030",
+    "engineerId": "brigade-36",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 87
+  },
+  {
+    "requestId": "635031",
+    "engineerId": "brigade-36",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 34
+  },
+  {
+    "requestId": "635032",
+    "engineerId": "brigade-36",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "explained"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 118
+  },
+  {
+    "requestId": "635033",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 61
+  },
+  {
+    "requestId": "635034",
+    "engineerId": "brigade-36",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 86
+  },
+  {
+    "requestId": "636000",
+    "engineerId": "brigade-37",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "fast",
+      "punctual"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 3
+  },
+  {
+    "requestId": "636001",
+    "engineerId": "brigade-37",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 113
+  },
+  {
+    "requestId": "636002",
+    "engineerId": "brigade-37",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Дмитрий",
+    "daysAgo": 119
+  },
+  {
+    "requestId": "636003",
+    "engineerId": "brigade-37",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "explained",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 56
+  },
+  {
+    "requestId": "636004",
+    "engineerId": "brigade-37",
+    "stars": 4,
+    "tags": [
+      "neat"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 54
+  },
+  {
+    "requestId": "636005",
+    "engineerId": "brigade-37",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 44
+  },
+  {
+    "requestId": "636006",
+    "engineerId": "brigade-37",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 27
+  },
+  {
+    "requestId": "636007",
+    "engineerId": "brigade-37",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "polite",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 83
+  },
+  {
+    "requestId": "636008",
+    "engineerId": "brigade-37",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 47
+  },
+  {
+    "requestId": "636009",
+    "engineerId": "brigade-37",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 21
+  },
+  {
+    "requestId": "636010",
+    "engineerId": "brigade-37",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Дмитрий",
+    "daysAgo": 118
+  },
+  {
+    "requestId": "636011",
+    "engineerId": "brigade-37",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 52
+  },
+  {
+    "requestId": "637000",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "friendly",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 79
+  },
+  {
+    "requestId": "637001",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "explained",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 118
+  },
+  {
+    "requestId": "637002",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "neat",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 89
+  },
+  {
+    "requestId": "637003",
+    "engineerId": "brigade-38",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "fast",
+      "punctual"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Наталья",
+    "daysAgo": 43
+  },
+  {
+    "requestId": "637004",
+    "engineerId": "brigade-38",
+    "stars": 5,
+    "tags": [
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 111
+  },
+  {
+    "requestId": "637005",
+    "engineerId": "brigade-38",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Ольга",
+    "daysAgo": 79
+  },
+  {
+    "requestId": "637006",
+    "engineerId": "brigade-38",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "Сергей",
+    "daysAgo": 89
+  },
+  {
+    "requestId": "637007",
+    "engineerId": "brigade-38",
+    "stars": 3,
+    "tags": [
+      "polite"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 4
+  },
+  {
+    "requestId": "637008",
+    "engineerId": "brigade-38",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "friendly",
+      "fast"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 109
+  },
+  {
+    "requestId": "637009",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "polite"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "",
+    "daysAgo": 13
+  },
+  {
+    "requestId": "637010",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 14
+  },
+  {
+    "requestId": "637011",
+    "engineerId": "brigade-38",
+    "stars": 3,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Дмитрий",
+    "daysAgo": 103
+  },
+  {
+    "requestId": "637012",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Дмитрий",
+    "daysAgo": 87
+  },
+  {
+    "requestId": "637013",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "friendly",
+      "explained"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 69
+  },
+  {
+    "requestId": "637014",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "punctual"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Наталья",
+    "daysAgo": 28
+  },
+  {
+    "requestId": "637015",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 38
+  },
+  {
+    "requestId": "637016",
+    "engineerId": "brigade-38",
+    "stars": 3,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Нормально, без восторга.",
+    "clientName": "",
+    "daysAgo": 90
+  },
+  {
+    "requestId": "637017",
+    "engineerId": "brigade-38",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 27
+  },
+  {
+    "requestId": "637018",
+    "engineerId": "brigade-38",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 12
+  },
+  {
+    "requestId": "637019",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 10
+  },
+  {
+    "requestId": "637020",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 116
+  },
+  {
+    "requestId": "637021",
+    "engineerId": "brigade-38",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "",
+    "daysAgo": 78
+  },
+  {
+    "requestId": "637022",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "fast",
+      "friendly"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 60
+  },
+  {
+    "requestId": "637023",
+    "engineerId": "brigade-38",
+    "stars": 3,
+    "tags": [
+      "neat"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 69
+  },
+  {
+    "requestId": "637024",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "neat",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 110
+  },
+  {
+    "requestId": "637025",
+    "engineerId": "brigade-38",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 10
+  },
+  {
+    "requestId": "637026",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 21
+  },
+  {
+    "requestId": "637027",
+    "engineerId": "brigade-38",
+    "stars": 2,
+    "tags": [],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 99
+  },
+  {
+    "requestId": "637028",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Дмитрий",
+    "daysAgo": 73
+  },
+  {
+    "requestId": "637029",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Мария",
+    "daysAgo": 118
+  },
+  {
+    "requestId": "637030",
+    "engineerId": "brigade-38",
+    "stars": 3,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Дмитрий",
+    "daysAgo": 80
+  },
+  {
+    "requestId": "637031",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "fast",
+      "punctual"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 108
+  },
+  {
+    "requestId": "637032",
+    "engineerId": "brigade-38",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 70
+  },
+  {
+    "requestId": "637033",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "explained",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 76
+  },
+  {
+    "requestId": "637034",
+    "engineerId": "brigade-38",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Сделал, но пришлось ждать.",
+    "clientName": "Наталья",
+    "daysAgo": 36
+  },
+  {
+    "requestId": "637035",
+    "engineerId": "brigade-38",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "punctual",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 114
+  },
+  {
+    "requestId": "637036",
+    "engineerId": "brigade-38",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Ольга",
+    "daysAgo": 58
+  },
+  {
+    "requestId": "637037",
+    "engineerId": "brigade-38",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "explained"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 33
+  },
+  {
+    "requestId": "638000",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "explained",
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Мария",
+    "daysAgo": 42
+  },
+  {
+    "requestId": "638001",
+    "engineerId": "brigade-39",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Мария",
+    "daysAgo": 2
+  },
+  {
+    "requestId": "638002",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "neat"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 82
+  },
+  {
+    "requestId": "638003",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Дмитрий",
+    "daysAgo": 44
+  },
+  {
+    "requestId": "638004",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "friendly",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 31
+  },
+  {
+    "requestId": "638005",
+    "engineerId": "brigade-39",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "fast",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 49
+  },
+  {
+    "requestId": "638006",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "fast",
+      "polite"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 115
+  },
+  {
+    "requestId": "638007",
+    "engineerId": "brigade-39",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "explained",
+      "punctual"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Сергей",
+    "daysAgo": 58
+  },
+  {
+    "requestId": "638008",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Мария",
+    "daysAgo": 45
+  },
+  {
+    "requestId": "638009",
+    "engineerId": "brigade-39",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "explained",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Сергей",
+    "daysAgo": 19
+  },
+  {
+    "requestId": "638010",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "neat",
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 48
+  },
+  {
+    "requestId": "638011",
+    "engineerId": "brigade-39",
+    "stars": 3,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Мария",
+    "daysAgo": 46
+  },
+  {
+    "requestId": "638012",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 48
+  },
+  {
+    "requestId": "638013",
+    "engineerId": "brigade-39",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "explained",
+      "neat"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 111
+  },
+  {
+    "requestId": "638014",
+    "engineerId": "brigade-39",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "fast",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "",
+    "daysAgo": 34
+  },
+  {
+    "requestId": "638015",
+    "engineerId": "brigade-39",
+    "stars": 4,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "Ольга",
+    "daysAgo": 53
+  },
+  {
+    "requestId": "638016",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Алексей",
+    "daysAgo": 17
+  },
+  {
+    "requestId": "638017",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "polite",
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 113
+  },
+  {
+    "requestId": "638018",
+    "engineerId": "brigade-39",
+    "stars": 4,
+    "tags": [
+      "explained",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 61
+  },
+  {
+    "requestId": "638019",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "friendly",
+      "punctual",
+      "neat"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 40
+  },
+  {
+    "requestId": "638020",
+    "engineerId": "brigade-39",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Сергей",
+    "daysAgo": 105
+  },
+  {
+    "requestId": "638021",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "explained"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Сергей",
+    "daysAgo": 34
+  },
+  {
+    "requestId": "638022",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "neat",
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Мария",
+    "daysAgo": 60
+  },
+  {
+    "requestId": "638023",
+    "engineerId": "brigade-39",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "friendly"
+    ],
+    "comment": "",
+    "clientName": "Наталья",
+    "daysAgo": 102
+  },
+  {
+    "requestId": "638024",
+    "engineerId": "brigade-39",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "explained",
+      "friendly"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Мария",
+    "daysAgo": 54
+  },
+  {
+    "requestId": "639000",
+    "engineerId": "brigade-40",
+    "stars": 4,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Дмитрий",
+    "daysAgo": 106
+  },
+  {
+    "requestId": "639001",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "polite",
+      "explained"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 48
+  },
+  {
+    "requestId": "639002",
+    "engineerId": "brigade-40",
+    "stars": 3,
+    "tags": [
+      "explained"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 62
+  },
+  {
+    "requestId": "639003",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "punctual",
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Алексей",
+    "daysAgo": 16
+  },
+  {
+    "requestId": "639004",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "",
+    "daysAgo": 14
+  },
+  {
+    "requestId": "639005",
+    "engineerId": "brigade-40",
+    "stars": 4,
+    "tags": [
+      "fast",
+      "explained"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Наталья",
+    "daysAgo": 35
+  },
+  {
+    "requestId": "639006",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 98
+  },
+  {
+    "requestId": "639007",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "explained",
+      "fast",
+      "polite"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "",
+    "daysAgo": 107
+  },
+  {
+    "requestId": "639008",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 120
+  },
+  {
+    "requestId": "639009",
+    "engineerId": "brigade-40",
+    "stars": 4,
+    "tags": [
+      "friendly",
+      "neat",
+      "fast"
+    ],
+    "comment": "Работой доволен.",
+    "clientName": "Ольга",
+    "daysAgo": 5
+  },
+  {
+    "requestId": "639010",
+    "engineerId": "brigade-40",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Ольга",
+    "daysAgo": 86
+  },
+  {
+    "requestId": "639011",
+    "engineerId": "brigade-40",
+    "stars": 4,
+    "tags": [
+      "polite",
+      "friendly",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "Алексей",
+    "daysAgo": 21
+  },
+  {
+    "requestId": "639012",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "friendly",
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Мария",
+    "daysAgo": 117
+  },
+  {
+    "requestId": "639013",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "friendly",
+      "explained"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Алексей",
+    "daysAgo": 92
+  },
+  {
+    "requestId": "639014",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "fast",
+      "punctual",
+      "polite"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 50
+  },
+  {
+    "requestId": "639015",
+    "engineerId": "brigade-40",
+    "stars": 4,
+    "tags": [
+      "neat",
+      "fast"
+    ],
+    "comment": "",
+    "clientName": "",
+    "daysAgo": 8
+  },
+  {
+    "requestId": "639016",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "neat"
+    ],
+    "comment": "Отличный мастер, рекомендую.",
+    "clientName": "Сергей",
+    "daysAgo": 20
+  },
+  {
+    "requestId": "639017",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "friendly"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Мария",
+    "daysAgo": 88
+  },
+  {
+    "requestId": "639018",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "neat",
+      "polite",
+      "explained"
+    ],
+    "comment": "Приехал вовремя, всё сделал быстро и аккуратно.",
+    "clientName": "Ольга",
+    "daysAgo": 70
+  },
+  {
+    "requestId": "639019",
+    "engineerId": "brigade-40",
+    "stars": 5,
+    "tags": [
+      "fast"
+    ],
+    "comment": "Спасибо за качественную работу, всё подробно объяснил.",
+    "clientName": "Сергей",
+    "daysAgo": 36
+  },
+  {
+    "requestId": "639020",
+    "engineerId": "brigade-40",
+    "stars": 4,
+    "tags": [
+      "punctual",
+      "friendly",
+      "polite"
+    ],
+    "comment": "В целом всё хорошо, немного задержался.",
+    "clientName": "Алексей",
+    "daysAgo": 3
+  }
+]

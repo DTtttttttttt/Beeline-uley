@@ -1,0 +1,12 @@
+id;name;startLat;startLon;shiftStart;shiftEnd;lunchStart;lunchEnd;skills;transport;equipment;tools;speed;rating;reviewsCount
+brigade-1;Воробьёв;55.664941;37.615444;10:00;22:00;;;local;bicycle;router;cable_tester,crimping_tool,laptop;1017;4.67;3
+brigade-2;Попов;55.664941;37.615444;09:00;18:00;;;local,connection,emergency;public_transport;router,set_top_box,alice;cable_tester,crimping_tool;1077;4.37;27
+brigade-3;Фролов;55.664941;37.615444;10:00;22:00;;;local,connection,emergency;bicycle;router,set_top_box;cable_tester;901;4.4;5
+brigade-4;Лебедев;55.664941;37.615444;10:00;22:00;;;local,connection;public_transport;set_top_box;cable_tester,crimping_tool;982;5.0;6
+brigade-5;Егоров;55.664941;37.615444;10:00;22:00;;;local,connection,emergency;bicycle;router;crimping_tool;1064;4.2;5
+brigade-6;Соколов;55.664941;37.615444;10:00;22:00;;;local,connection,emergency;car;router,set_top_box;cable_tester,crimping_tool,laptop;974;4.21;19
+brigade-7;Васильев;55.664941;37.615444;10:00;22:00;;;connection,emergency;public_transport;router;cable_tester,crimping_tool,laptop;1093;4.0;6
+brigade-8;Козлов;55.664941;37.615444;10:00;22:00;;;local,emergency;public_transport;router;cable_tester,crimping_tool;1069;4.03;36
+brigade-9;Иванов;55.664941;37.615444;09:00;18:00;;;local,connection,emergency;public_transport;router,alice;cable_tester,crimping_tool;1026;4.5;38
+brigade-10;Романов;55.664941;37.615444;09:00;18:00;;;local,connection,emergency;public_transport;router,set_top_box;cable_tester,crimping_tool,laptop;1099;4.1;31
+brigade-11;Алексеев;55.664941;37.615444;10:00;22:00;;;connection,emergency;public_transport;router,alice;cable_tester,crimping_tool,laptop;1039;4.4;35

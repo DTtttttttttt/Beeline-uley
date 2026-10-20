@@ -1,0 +1,47 @@
+{
+  "vostok": {
+    "engineers": 12,
+    "total": 66,
+    "done": 36,
+    "cancelled": 6,
+    "overdue": 4,
+    "perEngineer": 3.0,
+    "run": {
+      "engineers": 12,
+      "assigned": 58,
+      "km": 163.8,
+      "late": 1,
+      "overShift": 0
+    }
+  },
+  "yugo-vostok": {
+    "engineers": 12,
+    "total": 83,
+    "done": 39,
+    "cancelled": 10,
+    "overdue": 6,
+    "perEngineer": 3.2,
+    "run": {
+      "engineers": 12,
+      "assigned": 73,
+      "km": 230.0,
+      "late": 3,
+      "overShift": 3
+    }
+  },
+  "yugotsentr": {
+    "engineers": 11,
+    "total": 56,
+    "done": 37,
+    "cancelled": 5,
+    "overdue": 0,
+    "perEngineer": 3.4,
+    "run": {
+      "engineers": 11,
+      "assigned": 51,
+      "km": 157.2,
+      "late": 1,
+      "overShift": 0
+    }
+  }
+}

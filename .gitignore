@@ -1,0 +1,31 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Node / Nuxt
+node_modules/
+.nuxt/
+.output/
+
+# Ключи
+.env
+
+# Valhalla: выгрузка OSM и собранные тайлы, конфиг версионируется
+valhalla/custom_files/*
+!valhalla/custom_files/valhalla.json
+*.osm.pbf
+
+# Редакторы и ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Рабочие заметки: лежат рядом, в репозиторий не входят
+CLAUDE.md
+PLAN.md
+docs/
+README.old.md
